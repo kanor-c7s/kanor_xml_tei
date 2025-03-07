@@ -8,7 +8,7 @@
 
             <head>
                 <title>Kanor et ses frères</title>
-                <link rel="stylesheet" type="text/css" href="./ASSETS/Kanor.css?ver=1.2"/>
+                <link rel="stylesheet" type="text/css" href="./ASSETS/Kanor.css?ver=1.3"/>
                 <meta http-equiv="cache-control" content="no-cache"/>
                 <meta http-equiv="expires" content="0"/>
                 <meta http-equiv="pragma" content="no-cache"/>
@@ -25,7 +25,19 @@
                     element.classList.remove('active');
                     }
                     
+                    function copyParagraphLink(paragraphId, iconElement) {
+                    const url = window.location.origin + window.location.pathname + '#' + paragraphId;
+                    navigator.clipboard.writeText(url).then(() => {
+                    iconElement.style.opacity = 0.2;
+                    setTimeout(() => {
+                    iconElement.style.opacity = 1;
+                    }, 300);
+                    }).catch(err => {
+                    console.error('Failed to copy link:', err);
+                    });
+                    }
                 </script>
+                
             </head>
             <body>
                 <span class="title">
@@ -120,16 +132,25 @@
 
     <!-- Template pour les paragraphes -->
     <xsl:template match="p">
-        <p style="display:inline;">
-            <span style="float: left;padding-right: 15px;">
-                <b>§&#160;<span class="paraNum"><xsl:value-of select="substring-after(@n, 'P')"
-                        /></span></b>
+        <p style="display:inline;" id="{substring-after(@n, 'P')}">
+            <span style="float:left; padding-right:15px; position:relative; display:flex; align-items:center;">
+                <span class="link-icon" title="Copier le lien du paragraphe"
+                    onclick="copyParagraphLink('{substring-after(@n, 'P')}', this)"
+                    style="cursor:pointer; font-size:0.75em; margin-right:6px; transition:opacity 0.3s ease-in-out;">
+                    🔗
+                </span>
+                <b>§&#160;<span class="paraNum">
+                    <xsl:value-of select="substring-after(@n, 'P')"/>
+                </span></b>
             </span>
             <xsl:text> </xsl:text>
             <xsl:apply-templates/>
         </p>
         <br/>
     </xsl:template>
+
+
+
 
     <xsl:template match="div">
         <xsl:choose>
