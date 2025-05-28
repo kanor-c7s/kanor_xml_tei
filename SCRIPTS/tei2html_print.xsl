@@ -134,11 +134,7 @@
     <xsl:template match="p">
         <p style="display:inline;" id="{substring-after(@n, 'P')}">
             <span style="float:left; padding-right:15px; position:relative; display:flex; align-items:center;">
-                <span class="link-icon" title="Copier le lien du paragraphe"
-                    onclick="copyParagraphLink('{substring-after(@n, 'P')}', this)"
-                    style="cursor:pointer; font-size:0.75em; margin-right:6px; transition:opacity 0.3s ease-in-out;">
-                    🔗                    
-                </span>
+                
                 <b>§&#160;<span class="paraNum">
                     <xsl:value-of select="substring-after(@n, 'P')"/>
                 </span></b>
@@ -146,7 +142,7 @@
             <xsl:text> </xsl:text>
             <xsl:apply-templates/>
         </p>
-        <br/>
+        
     </xsl:template>
 
 
@@ -176,11 +172,7 @@
         <xsl:text/>
         <xsl:apply-templates/>
 
-        <sup>
-            <span class="pb" id="{@n}">[<xsl:value-of select="@n"/>]</span>
-            <xsl:text/>
-            <xsl:apply-templates/>
-        </sup>
+        
     </xsl:template>
 
     <!-- Template pour les numéros de colonne -->
@@ -190,11 +182,7 @@
                     select="preceding::pb[1]/@n"/>b</a>]</span>
         <xsl:text/>
         <xsl:apply-templates/>
-        <sup>
-            <span class="cb">[<xsl:value-of select="@n"/>]</span>
-            <xsl:text/>
-            <xsl:apply-templates/>
-        </sup>
+        
     </xsl:template>
 
     <!-- Template pour les numéros -->
@@ -320,18 +308,10 @@
     </xsl:template>
 
     <!-- Template pour les éléments del -->
-    <xsl:template match="del">
-        <span class="del">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
+    <xsl:template match="del">[<xsl:apply-templates/>]</xsl:template>
 
     <!-- Template pour les éléments surplus -->
-    <xsl:template match="surplus">
-        <span class="surplus">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
+    <xsl:template match="surplus">{<xsl:apply-templates/>}</xsl:template>
 
 
     <!-- Template pour les éléments app -->
@@ -375,7 +355,7 @@
         <xsl:choose>
             <xsl:when test="@type = 'notecritique'">
                 <span class="tooltip_notes">
-                    <span class="note">💬<span class="tooltip_notes-content">
+                    <span class="note">*<span class="tooltip_notes-content">
                             <xsl:apply-templates/>
                         </span></span>
                 </span>
@@ -389,7 +369,7 @@
             </xsl:when>
             <xsl:otherwise>
                 <span class="tooltip_notes">
-                    <span class="note">💬<span class="tooltip_notes-content">
+                    <span class="note">*<span class="tooltip_notes-content">
                             <xsl:apply-templates/>
                         </span></span>
                 </span>
@@ -448,9 +428,9 @@
 
     <xsl:template match="persName">
         <span class="tooltip">
-            <span class="persName" onclick="toggleTooltip(this)"
+            <span onclick="toggleTooltip(this)"
                 onmouseleave="hideTooltip(this.nextSibling)">
-                <xsl:apply-templates/>
+                <u><xsl:apply-templates/></u>
             </span>
             <span class="tooltip-content">
                 <xsl:for-each select="key('person-by-id', @key)">
@@ -489,8 +469,8 @@
 
     <xsl:template match="placeName">
         <span class="tooltip">
-            <span class="placeName" onclick="toggleTooltip(this)">
-                <xsl:apply-templates/>
+            <span onclick="toggleTooltip(this)">
+                <u><xsl:apply-templates/></u>
             </span>
             <span class="tooltip-content" onmouseleave="hideTooltip(this)">
                 <xsl:for-each select="key('place-by-id', @key)">
