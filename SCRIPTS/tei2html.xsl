@@ -43,7 +43,7 @@
                 <span class="title">
                     <i>Li histoire de Kanor et de ses freres</i>
                 </span>
-                <!--<br/>
+                <br/>
                 <br/>
                 <span>Présentation des signes employés :</span>
                 <ul>
@@ -52,7 +52,7 @@
                         Tous les noms sont dotés d'une infobulle qui va rechercher le contenu de
                             l'<hi>index nominum</hi>. Même principe pour les noms de lieux.</li>
                     <li>[×] segment indéchiffrable</li>
-                    <li>Dieus i vot mostrer de ses o<span class="add">^ue^</span>vres : ajout
+                    <li>Dieus i vot mostrer de ses o<span class="add">‸ue</span>vres : ajout
                         suscrit par le scribe </li>
                     <li>de grant se<span class="tooltip">‹n›<span class="tooltip-content"/></span>s
                         aornee : ajout par l'éditeur </li>
@@ -91,7 +91,7 @@
                 </ul>
                 <br/>
                 <hr/>
-                <br/>-->
+                <br/>
                 <xsl:apply-templates/>
             </body>
         </html>
