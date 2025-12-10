@@ -13,18 +13,18 @@
                         ref="#Cassidoire">Cassidoire</persName>
                      <persName ref="#Celydus">Celydus</persName>
                   </note>
-                  <note type="relationships">Époux de <persName ref="#Helcana">Helcana</persName>
-                     et de <persName ref="#Fastige">Fastige</persName>
+                  <note type="relationships">Époux de <persName ref="#Helcana">Helcana</persName> et
+                     de <persName ref="#Fastige">Fastige</persName>
                   </note>
                   <note type="relationships">Amant de <persName ref="#Celidoine"
                         >Celidoine</persName>
                   </note>
-                  <note type="relationships">Fils de <persName ref="#Laurin">Laurin</persName> et
-                     de <persName ref="#Cassidoire1">Cassidoire</persName>
+                  <note type="relationships">Fils de <persName ref="#Laurin">Laurin</persName> et de
+                        <persName ref="#Cassidoire1">Cassidoire</persName>
                   </note>
                   <event>
-                     <p>Fait seigneur de <placeName ref="#Rome">Rome</placeName> lors de son
-                        mariage avec <persName ref="#Fastige">Fastige</persName>
+                     <p>Fait seigneur de <placeName ref="#Rome">Rome</placeName> lors de son mariage
+                        avec <persName ref="#Fastige">Fastige</persName>
                      </p>
                   </event>
                </person>
@@ -37,8 +37,8 @@
                   </occupation>
                   <note type="relationships">Épouse de <persName ref="#Cassidorus"/>
                   </note>
-                  <note type="relationships">Mère de <persName ref="#Helcanus">Helcanus</persName>
-                     , puis de <persName ref="#Cassidoire">Cassidoire</persName> et de <persName
+                  <note type="relationships">Mère de <persName ref="#Helcanus">Helcanus</persName> ,
+                     puis de <persName ref="#Cassidoire">Cassidoire</persName> et de <persName
                         ref="#Dorus">Dorus</persName>
                   </note>
                   <note type="relationships">Soeur de <persName ref="#Edypus2">Edypus le
@@ -220,8 +220,8 @@
                   <note type="relationships">Fille (deuxième) du <persName ref="#RoidEspagne">Roi
                         d'Espagne</persName>
                   </note>
-                  <note type="relationships">Soeur de <persName ref="#Hécube">Hécube</persName> ,
-                     de <persName ref="#Ysidore">Ysidore</persName> et de <persName ref="#Nera"
+                  <note type="relationships">Soeur de <persName ref="#Hécube">Hécube</persName> , de
+                        <persName ref="#Ysidore">Ysidore</persName> et de <persName ref="#Nera"
                         >Nera</persName>
                   </note>
                   <note type="relationships">Épouse de <persName ref="#Fastidorus"
@@ -233,8 +233,8 @@
                   <note type="relationships">Fille (quatrième) du <persName ref="#RoidEspagne">Roi
                         d'Espagne</persName>
                   </note>
-                  <note type="relationships">Soeur de <persName ref="#Hécube">Hécube</persName> ,
-                     de <persName ref="#Aphode">Aphode</persName> et de <persName ref="#Nera"
+                  <note type="relationships">Soeur de <persName ref="#Hécube">Hécube</persName> , de
+                        <persName ref="#Aphode">Aphode</persName> et de <persName ref="#Nera"
                         >Nera</persName>
                   </note>
                   <note type="relationships">Épouse de <persName ref="#Pelyarmenus"
@@ -251,12 +251,11 @@
                   <note type="relationships">Fille (troisième) du <persName ref="#RoidEspagne">Roi
                         d'Espagne</persName>
                   </note>
-                  <note type="relationships">Soeur de <persName ref="#Hécube">Hécube</persName> ,
-                     de <persName ref="#Ysidore">Ysidore</persName> et de <persName ref="#Aphode"
+                  <note type="relationships">Soeur de <persName ref="#Hécube">Hécube</persName> , de
+                        <persName ref="#Ysidore">Ysidore</persName> et de <persName ref="#Aphode"
                         >Aphode</persName>
                   </note>
-                  <note type="relationships">Épouse de <persName ref="#Helcanus"
-                        >Helcanus</persName>
+                  <note type="relationships">Épouse de <persName ref="#Helcanus">Helcanus</persName>
                   </note>
                </person>
                <person xml:id="Hécube">
@@ -267,8 +266,8 @@
                   <note type="relationships">Fille (premième) du <persName ref="#RoidEspagne">Roi
                         d'Espagne</persName>
                   </note>
-                  <note type="relationships">Soeur de <persName ref="#Aphode">Aphode</persName> ,
-                     de <persName ref="#Ysidore">Ysidore</persName> et de <persName ref="#Nera"
+                  <note type="relationships">Soeur de <persName ref="#Aphode">Aphode</persName> , de
+                        <persName ref="#Ysidore">Ysidore</persName> et de <persName ref="#Nera"
                         >Nera</persName>
                   </note>
                   <note type="relationships">Épouse du <persName ref="#Dyomarques"
@@ -331,8 +330,8 @@
                         ref="#Fiséus">Fiséus</persName> et roi de <placeName ref="#Aragon"
                         >Aragon</placeName> par sa femme <persName ref="#Diogène">Diogène</persName>
                   </occupation>
-                  <note type="relationships">Père de <persName ref="#Laurin">Laurin</persName> et
-                     de <persName ref="#Dyomarques">Dyomarques</persName>
+                  <note type="relationships">Père de <persName ref="#Laurin">Laurin</persName> et de
+                        <persName ref="#Dyomarques">Dyomarques</persName>
                   </note>
                   <note type="relationships">Époux (deuxième) de <persName ref="#Diogène"
                         >Diogène</persName>
@@ -443,8 +442,8 @@
                   <persName>Bourleus</persName>
                   <occupation>Duc de <placeName ref="#Limbourc">Lembourc</placeName>
                   </occupation>
-                  <note type="relationships">Époux de la nièce du <persName ref="#RoideFrise">Roi
-                        de Frise</persName>
+                  <note type="relationships">Époux de la nièce du <persName ref="#RoideFrise">Roi de
+                        Frise</persName>
                   </note>
                   <note type="relationships">Père de <persName ref="#Leus">Leus</persName> et de
                         <persName ref="#Luce">Luce</persName>
@@ -461,52 +460,68 @@
 
                <person xml:id="Kanor">
                   <persName>Kanor</persName>
-                  <occupation>Empereur de <placeName ref="#Rome">Rome</placeName> aprés <persName
-                        ref="#Pelear">Pelear</persName>
-                  </occupation>
-                  <note type="relationships">Fils de <persName ref="#Fastige">Fastige</persName> et
-                        <persName ref="#Cassidorus">Cassidorus</persName>
-                  </note>
-                  <note type="relationships">Frère de <persName ref="#Sycor">Sycor</persName>,
-                        <persName ref="#Domor">Domor</persName> et <persName ref="#Rusticor"
-                        >Rusticor</persName>
-                  </note>
+                  <note type="relationships">Fils de <persName ref="#Cassidorus"
+                        >Cassidorus</persName> et de <persName ref="#Fastige"
+                     >Fastige</persName></note>
+                  <note type="relationships">Frère quadruplé de <persName ref="#Sycor"
+                        >Sycor</persName>, <persName ref="#Domor">Domor</persName> et <persName
+                        ref="#Rusticor">Rusticor</persName></note>
+                  <note type="relationships">Frère de <persName ref="#Fastidorus"
+                        >Fastidorus</persName> et <persName ref="#Pelyarmenus"
+                        >Pelyarmenus</persName></note>
+                  <note type="relationships">Demi-frère de <persName ref="#Helcanus"
+                        >Helcanus</persName>, <persName ref="#Cassidore">Cassidore</persName>,
+                        <persName ref="#Dorus">Dorus</persName> et de <persName ref="#Dyalogus"
+                        >Dyalogus</persName></note>
                </person>
-
                <person xml:id="Sycor">
-                  <persName>Sycorus</persName>
-                  <occupation>Membre de la fratrie <persName>Kanor</persName></occupation>
-                  <note type="relationships">Fils de <persName ref="#Fastige">Fastige</persName> et
-                        <persName ref="#Cassidorus">Cassidorus</persName>
-                  </note>
-                  <note type="relationships">Frère de <persName ref="#Kanor">Kanor</persName>,
-                        <persName ref="#Domor">Domor</persName> et <persName ref="#Rusticor"
-                        >Rusticor</persName>
-                  </note>
+                  <persName>Sycor</persName>
+                  <note type="relationships">Fils de <persName ref="#Cassidorus"
+                        >Cassidorus</persName> et de <persName ref="#Fastige"
+                     >Fastige</persName></note>
+                  <note type="relationships">Frère quadruplé de <persName ref="#Kanor"
+                        >Kanor</persName>, <persName ref="#Domor">Domor</persName> et <persName
+                        ref="#Rusticor">Rusticor</persName></note>
+                  <note type="relationships">Frère de <persName ref="#Fastidorus"
+                        >Fastidorus</persName> et <persName ref="#Pelyarmenus"
+                        >Pelyarmenus</persName></note>
+                  <note type="relationships">Demi-frère de <persName ref="#Helcanus"
+                        >Helcanus</persName>, <persName ref="#Cassidore">Cassidore</persName>,
+                        <persName ref="#Dorus">Dorus</persName> et de <persName ref="#Dyalogus"
+                        >Dyalogus</persName></note>
                </person>
-
                <person xml:id="Domor">
                   <persName>Domor</persName>
-                  <occupation>Membre de la fratrie <persName>Kanor</persName></occupation>
-                  <note type="relationships">Fils de <persName ref="#Fastige">Fastige</persName> et
-                        <persName ref="#Cassidorus">Cassidorus</persName>
-                  </note>
-                  <note type="relationships">Frère de <persName ref="#Kanor">Kanor</persName>,
-                        <persName ref="#Sycor">Sycor</persName> et <persName ref="#Rusticor"
-                        >Rusticor</persName>
-                  </note>
+                  <note type="relationships">Fils de <persName ref="#Cassidorus"
+                        >Cassidorus</persName> et de <persName ref="#Fastige"
+                     >Fastige</persName></note>
+                  <note type="relationships">Frère quadruplé de <persName ref="#Kanor"
+                        >Kanor</persName>, <persName ref="#Sycor">Sycor</persName> et <persName
+                        ref="#Rusticor">Rusticor</persName></note>
+                  <note type="relationships">Frère de <persName ref="#Fastidorus"
+                        >Fastidorus</persName> et <persName ref="#Pelyarmenus"
+                        >Pelyarmenus</persName></note>
+                  <note type="relationships">Demi-frère de <persName ref="#Helcanus"
+                        >Helcanus</persName>, <persName ref="#Cassidore">Cassidore</persName>,
+                        <persName ref="#Dorus">Dorus</persName> et de <persName ref="#Dyalogus"
+                        >Dyalogus</persName></note>
                </person>
-
                <person xml:id="Rusticor">
-                  <persName>Rusticorus</persName>
-                  <occupation>Membre de la fratrie <persName>Kanor</persName></occupation>
-                  <note type="relationships">Fils de <persName ref="#Fastige">Fastige</persName> et
-                        <persName ref="#Cassidorus">Cassidorus</persName>
-                  </note>
-                  <note type="relationships">Frère de <persName ref="#Kanor">Kanor</persName>,
-                        <persName ref="#Sycor">Sycor</persName> et <persName ref="#Domor"
-                        >Domor</persName>
-                  </note>
+                  <persName>Rusticor</persName>
+                  <note type="relationships">Fils de <persName ref="#Cassidorus"
+                        >Cassidorus</persName> et de <persName ref="#Fastige"
+                     >Fastige</persName></note>
+                  <note type="relationships">Frère quadruplé de <persName ref="#Kanor"
+                        >Kanor</persName>, <persName ref="#Sycor">Sycor</persName> et <persName
+                        ref="#Domor">Domor</persName></note>
+                  <note type="relationships">Frère de <persName ref="#Fastidorus"
+                        >Fastidorus</persName> et <persName ref="#Pelyarmenus"
+                        >Pelyarmenus</persName></note>
+                  <note type="relationships">Demi-frère de <persName ref="#Helcanus"
+                        >Helcanus</persName>, <persName ref="#Cassidore">Cassidore</persName>,
+                        <persName ref="#Dorus">Dorus</persName>, ainsi que de <persName
+                        ref="#Celydus">Celydus</persName> par son père et de <persName
+                        ref="#Dyalogus">Dyalogus</persName> par sa mère.</note>
                </person>
 
                <person xml:id="Licorus">
@@ -603,7 +618,8 @@
                   <persName>Alerie</persName>
                   <occupation>Princesse d'Antioche, dame de Tremor</occupation>
                   <note type="relationships">Sœur de Melchis, prince d'Antioche</note>
-                  <note type="relationships">Épouse du roi Celidus</note>
+                  <note type="relationships">Épouse du roi <persName ref="#Celydus"
+                        >Celydus</persName></note>
                </person>
 
                <person xml:id="Aliaume">
@@ -1189,7 +1205,7 @@
             </listPerson>
          </particDesc>
 
-         
+
          <settingDesc>
             <listPlace>
                <place xml:id="Rome">
