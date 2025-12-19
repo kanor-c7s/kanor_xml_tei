@@ -6688,7 +6688,9 @@
                      dist <persName key="Pelyarmenus">Peliarmenus</persName>. Mais jou n'en oï nule
                         espiere<note type="note_commentaire">Cette réplique est unique à __C__ ; en
                         effet, dans la tradition, c'est Peliarmenus qui dit _Et por çou feroit il...
-                        puis n'en oï nouviele._ Il s'agit d'une sorte de suture discursive, qui permet d'illustrer un peu plus le mensonge et la perfidie de Peliarmenus.</note>.</said>
+                        puis n'en oï nouviele._ Il s'agit d'une sorte de suture discursive, qui
+                        permet d'illustrer un peu plus le mensonge et la perfidie de
+                        Peliarmenus.</note>.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Et de <persName
                         key="Celydus">Celidum</persName> nostre frere, dist <persName key="Helcanus"
                         >Helcanus</persName>, en oïstes vos puis nule cose ?</said>
@@ -6705,36 +6707,37 @@
                <p n="P126"><hi rend="decorated-initial 2 red">C</hi>il ki demouré estoient hoir de
                   ciaus ki la boine dame<note type="note_commentaire">Helcana, la mère d'<persName
                         key="Helcanus">Helcanus</persName>, première femme de Cassidorus</note>
-                  avoient traïe, lor estoit encore une estinciele demouree ou cuer, qui a bien pau
+                  avoient traïe, lor estoit encore une estinciele demouree ou cuer qui a bien pau
                   voloit el tisson arse<note type="note_commentaire">Arse vient du latin ardere.
                      Dans le rouchi, on trouve un mot ars, arse, qui veut dire vif, subtil, ardent.
                      Arse tisson : brûler le tison. Pelyarmenus est ici comparé à un tison ardent,
                      avec actualisation des sèmes du feu guerrier, de l'ardeur amoureuse et
-                     peut-être aussi de la ruse calculatrice.</note> qui ne queroit el que il
+                     peut-être aussi de la ruse calculatrice.</note> qu'i ne queroit el que il
                   trovast feu par coi il fust alumés. Et cil tissons, çou fu <persName
                      key="Pelyarmenus">Peliarmainne</persName>, qui aquist ce ke cil li eurent en
                   convent que, se il savoit nul droit a l'empire de <placeName key="Constantinople"
-                     >Coustantinoble</placeName>, qu'il i demandast son droit, il ja pour iaus ne le
-                  laissast, car il amoient mius sa raison qu'il ne faissoient le tort a lor signeur.
-                  En ce dist <persName key="Pelyarmenus">Peliarmenus</persName> : <said aloud="true"
-                     direct="true">Biau signour, mout avés sagement respondu, ne je mon frere ne
-                     voroie chosse demander u je n'euisse coulour de raisson, et vous dirai quele.
-                     Il est voirs que anciienement <placeName key="Rome">Roume</placeName> si a esté
-                     souverainne de toutes viles que on doit apieler cités, et bien le nous moustre
-                     nostre peres esperitueuls, ce est li pape, ki en <placeName key="Rome"
-                        >Roume</placeName> demeure, a qui nous tuit devonmes reverence. Et ce ensiut
-                     ke, kiconques soit empereres de <placeName key="Rome">Roume</placeName>, tout
-                     autre signour tieriien doivent a lui iestre aclin.</said> Cascuns dist que
-                     <said aloud="false" direct="false">bien i avoit raisson</said>. Ensi eut
-                     <persName key="Pelyarmenus">Peliarmainne</persName> coulour de soi mesler a son
-                  frere, issi coume vous orés avant ke je laisse mon conte. Quant <persName
-                     key="Helcanus">Helcanus</persName> eut conjoï <persName key="Pelyarmenus"
+                     >Coustantinoble</placeName>, qu'il i demandast son droit <supplied
+                     reason="missing">et</supplied> il ja pour iaus ne le laissast, car il amoient
+                  mius sa raison qu'il ne faissoient le tort a lor signeur. En ce dist <persName
+                     key="Pelyarmenus">Peliarmenus</persName> : <said aloud="true" direct="true"
+                     >Biau signour, mout avés sagement respondu, ne je mon frere ne voroie chosse
+                     demander u je n'euisse coulour de raisson, et vous dirai quele. Il est voirs
+                     que anciienement <placeName key="Rome">Roume</placeName> si a esté souverainne
+                     de toutes viles que on doit apieler cités, et bien le nous moustre nostre peres
+                     esperitueuls, ce est li pape, ki en <placeName key="Rome">Roume</placeName>
+                     demeure, a qui nous tuit devonmes reverence. Et ce ensiut ke, kiconques soit
+                     empereres de <placeName key="Rome">Roume</placeName>, tout autre signour
+                     tieriien doivent a lui iestre aclin.</said> Cascuns dist que <said
+                     aloud="false" direct="false">bien i avoit raisson</said>. Ensi eut <persName
+                     key="Pelyarmenus">Peliarmainne</persName> coulour de soi mesler a son frere,
+                  issi coume vous orés avant ke je laisse mon conte. Quant <persName key="Helcanus"
+                     >Helcanus</persName> eut conjoï <persName key="Pelyarmenus"
                      >Peliarmainne</persName>, si ne veut plus demorer ou pais, et prist congiet, si
                   repaira a <placeName key="Rome">Roume</placeName>, ki mout estoit wide de loiauté
                   et de droiture, ensi coume je vous avoie de devant touciet, pour coi il ne demora
-                  se pau non. Quant <persName key="Pelyarmenus">Peliarmainne</persName> prist un
-                  chevalier, ki avoit non <persName key="Mainfroy">Mainfrois</persName>, icil avoit
-                  fauseté et traïson en soi plus k'en nul autre, et li entroduisi k'<said
+                  se pau non, quant <persName key="Pelyarmenus">Peliarmainne</persName> prist un
+                  chevalier, ki avoit non <persName key="Mainfroy">Mainfrois</persName> (icil avoit
+                  fauseté et traïson en soi plus k'en nul autre) et li entroduisi k'<said
                      aloud="false" direct="false">il alast en <placeName key="Constantinople"
                            >Coustanti<cb n="b" break="no"/>noble</placeName></said> et deist a son
                   frere <said aloud="false" direct="false">çou que vous oïr porrés</said>.</p>
@@ -6747,14 +6750,17 @@
                      <persName key="Helcanus">Helcanus</persName> avoit grant barounie o·ssoi. Il
                   vint devant lui, et fu ausi que tuit li baron eurent mengié, et il li tramet une
                   lettre de creance en sa main. <persName key="Helcanus">Helcanus</persName> le liut
-                  et puis esgarda celui, et ne le counut mie. Si dist ausi coume cil qui li cuers li
-                  dist qu'il n'aportoit nule boine nouviele : <said aloud="true" direct="true">Que
-                     vius tu dire ?</said> ausi coume en grant courous. Cil ki l'esgarda el vis eut
-                  paour, quar mout avoit <persName key="Helcanus">Helcanus</persName> fier regart
-                  quant il ert en courous. Et il, a l'autre lés, si n'aportoit mie nouviele ki mout
-                  li deuissent plaire. Si dist en tel maniere que <said aloud="false" direct="false"
-                     >mesages de faire le mant de son signour ne devoit mal reçoivre ne pis
-                     oïr.</said>
+                  et puis esgarda celui, et ne le counut mie, si dist ausi coume cil qui<note
+                     type="note_commentaire">_qui_ = _a qui_. Voir _Linguistique_.</note> li cuers
+                  li dist qu'il n'aportoit nule boine nouviele : <said aloud="true" direct="true"
+                     >Que vius tu dire ?</said>, ausi coume en grant courous. Cil, ki l'esgarda el
+                  vis, eut paour, quar mout avoit <persName key="Helcanus">Helcanus</persName> fier
+                  regart quant il ert en courous ; et il, a l'autre lés, si n'aportoit mie nouviele
+                  ki mout li deuissent plaire. Si dist en tel maniere que <said aloud="false"
+                     direct="false">mesages de faire le mant de son signour<note
+                        type="note_commentaire">Le segment à noyau verbal _de faire le mant de son
+                        signour_ est incident à... (voir Buridant 416) a les caractéristiques d'un
+                        c. circonstanciel.</note> ne devoit mal reçoivre ne pis oïr.</said>
                </p>
             </div>
             <div type="sup_paragraphe">
@@ -6768,42 +6774,46 @@
                      aloud="true" direct="true">Sire, dist cil, volentiers. On a fait mon signeur
                      entendant qu'anciienement <placeName key="Constantinople"
                         >Coustantinoble</placeName> si a esté susgite a <placeName key="Rome"
-                        >Roume</placeName>, et li empereour de <placeName key="Constantinople"
+                        >Roume</placeName> et li empereour de <placeName key="Constantinople"
                         >Coustantinoble</placeName> fait houmage a l'empereur de <placeName
                         key="Rome">Roume</placeName>. Et pour cesti raison, vos freres vos mande que
-                     vous nel tenés a orguel ne a felounie, ançois vous fait en amour et en gueredon
-                     asavoir que vous vigniés a <placeName key="Rome">Roume</placeName> ausi coume
-                     pour lui veoir, et la li poriés vous faire houmage.</said>
+                        <said aloud="true" direct="false">vous nel tenés a orguel ne a felounie,
+                        ançois vous fait en amour et en gueredon asavoir que vous vigniés a
+                           <placeName key="Rome">Roume</placeName> ausi coume pour lui veoir, et la
+                        li poriés vous faire houmage</said>.</said>
                </p>
             </div>
             <div type="sup_paragraphe">
                <p n="P129"><hi rend="decorated-initial 2 blue">H</hi>elcanus, quant il celui
                   entendi, si ne respondi ore mie mout hastivement et si se refrainst de s'ire u il
-                  estoit, et encoumença a faire ausi conme un faus ris, et dist a celui : <said
+                  estoit et encoumença a faire ausi conme un faus ris, et dist a celui : <said
                      aloud="true" direct="true">Vius tu ore plus aucune chosse dire ?</said>
                   <said rendition="dialogue" aloud="true" direct="true">Sire, dist il, n'ai jou de
                      si adont que jou aroie oïe vostre response.</said> Adont fist <persName
-                     key="Helcanus">Helcanus</persName> venir tos les barons ki la furent entour
-                  soy, et fist celui redire çou que vous avés oït. Quant cascuns eut entendut, si
-                  dist <persName key="Helcanus">Helcanus</persName> : <said aloud="true"
-                     direct="true">Ore, biau signour, avés vous ore entendut de mon tres cier frere
-                        <persName key="Pelyarmenus">Peliarmenum</persName>. Vous samble bien qu'il
-                     ait raisson a çou que vos avés oït ?</said> Aucuns i eut ki ne se peurent taire
-                  qu'il ne deissent : <said aloud="true" direct="true">Sire, il nous samble que nous
-                     aions une tiere convoitïe dou diable. Ne porons nous jamais vivre en pais
-                     !</said>
+                     key="Helcanus">Helcanus</persName> venir tos les barons ki la furent entour soy
+                  et fist celui redire çou que vous avés oït. Quant cascuns eut entendut, si dist
+                     <persName key="Helcanus">Helcanus</persName> : <said aloud="true" direct="true"
+                     >Ore, biau signour, avés vous ore entendut de mon tres cier frere <persName
+                        key="Pelyarmenus">Peliarmenum</persName>. Vous samble bien qu'il ait raisson
+                     a çou que vos avés oït ?</said> Aucuns i eut ki ne se peurent taire qu'il ne
+                  deissent : <said aloud="true" direct="true">Sire, il nous samble que nous aions
+                     une tiere convoitïe dou diable. Ne porons nous jamais vivre en pais !</said>
                   <said rendition="dialogue" aloud="true" direct="true" style="last">Biau signour,
-                     dist il, convoitise et envie ne puet pro avoir. Et ne vous esmiervelliés de
+                     dist il, convoitise et envie ne puet pro<note type="note_commentaire">L'adverbe
+                        _pro_ a ici le sens d'_assez_.</note> avoir. Et ne vous esmiervelliés de
                         <persName key="Pelyarmenus">Peliarmenum</persName>, car il resamble l'uel
                      que jou ai oït conter que li convoitous <persName key="Alixandre"
                         >Alixandres</persName> trouva sor <choice>
                         <orig>l'empereour</orig>
                         <reg>le perron</reg>
-                     </choice> de maubre, li queus li fu moustrés par senefiance qu'il ne seroit ja
-                     plains, tout fust il que nus ne pooit contre lui contrester. Autresi ne puet
-                     soufire a <persName key="Pelyarmenus">Peliarmainne</persName> chose u il ne
-                     doit <pb facs="https://gallica.bnf.fr/ark:/12148/btv1b10023851v/f42.image"
-                        n="18v"/> rien avoir. Et por çou que je quic que <persName key="Pelyarmenus"
+                     </choice> de maubre<note type="note_commentaire">Un saut au même n'est pas
+                        envisageable ici. Peut-être le copiste ne saisit-il pas la référence. ! Note
+                        nécessaire pour éclaircir ce passage !</note>, li queus li fu moustrés par
+                     senefiance qu'il ne seroit ja plains, tout fust il que nus ne pooit contre lui
+                     contrester. Autresi ne puet soufire a <persName key="Pelyarmenus"
+                        >Peliarmainne</persName> chose u il ne doit <pb
+                        facs="https://gallica.bnf.fr/ark:/12148/btv1b10023851v/f42.image" n="18v"/>
+                     rien avoir. Et por çou que je quic que <persName key="Pelyarmenus"
                         >Peliarmenus</persName> ait pris cuer en aucun de vous, me convient que sans
                      le consel de mes anemis li remanderai tel response.</said>
                </p>
@@ -6812,24 +6822,24 @@
                <p n="P130"><said rendition="dialogue" aloud="true" direct="true"><hi
                         rend="decorated-initial 2 red">O</hi> tu, vasal, ki ci ies tramis de par
                         <persName key="Pelyarmenus">Peliarmenum</persName> de <placeName key="Rome"
-                        >Roume</placeName>, di ton signour ke je li manc que, del empire de coi li
+                        >Roume</placeName> ? Di ton signour ke je li manc que, de l'empire de coi li
                      miens peres, non li siens, fu a yretés et reciut les houmages, que il ne soit
                      tant osés que, puis l'eure que tu li aras dit, demeurt en liu u jou sace qu'il
                      en tiegne malle de signourie<note type="note_glossaire">«tenir malle de
                         signourie» : «ne pas exercer le moindre pouvoir politique en quelque pays
-                        que ce soit.»</note>. Et, se il ce ne fait, si viegne en liu u jou le puisse
-                     trouver ; et la pora recevoir l'oumage de moi tel com je li vorai faire.</said>
+                        que ce soit.»</note>. Et se il ce ne fait, si viegne en liu u jou le puisse
+                     trouver et la pora recevoir l'oumage de moi tel com je li vorai faire.</said>
                   Atant fu cil tous liés <unclear reason="faded" cert="high">q</unclear>uant il se
-                  peut partir de <persName key="Helcanus">Helcanus</persName> et vint a <placeName
+                  peut partir de <persName key="Helcanus">Helcanum</persName> et vint a <placeName
                      key="Rome">Roume</placeName>, si conta son signour çou qu'il eut trouvé.
                      <persName key="Pelyarmenus">Peliarmenus</persName>, ki mie ne s'esfrea si com
                   une fine miervelle, manda partout a ses amis çou qu'il li pleut, et non mie qu'on
                   li aidast dou tout par amour ne par linage, mais <unclear reason="faded"
-                     cert="high">pour</unclear> le sien. Dont il avint que li convoiteus
+                     cert="high">pour</unclear> le sien, dont il avint que li convoiteus
                   convoitierent l'avoir et li autre le vorent faire par linage, et li autre par
                   cremour. Si n'avint onques que nus empereres ki a <placeName key="Rome"
                      >Roume</placeName> fust meist tant de gent ensamble con cil <persName
-                     key="Pelyarmenus">Peliarmenum</persName> fist a venir en <placeName key="Grèce"
+                     key="Pelyarmenus">Peliarmenus</persName> fist a venir en <placeName key="Grèce"
                      >Gresce</placeName>.</p>
             </div>
             <div type="sup_paragraphe">
@@ -6851,32 +6861,34 @@
                      key="Nise">Nisse</placeName>, qui encore regnoit en <placeName key="Grèce"
                      >Gresce</placeName>. Cil <persName key="Mardocheus">Mardoceus</persName> si fu
                   mout convoiteus de faire secors au preu <persName key="Helcanus"
-                     >Helcanus</persName>, si prist tant poi de boine cevalerie k'il poit avoir et
-                  vint sans <choice>
+                     >Helcanus</persName>, si prist tant poi<note type="note_commentaire">_tant poi_
+                     signifie _le peu de_.</note> de boine cevalerie k'il poit avoir et vint sans <choice>
                      <orig>segnour</orig>
                      <reg source="V3">sejour</reg>
-                  </choice> en <placeName key="Grèce">Gresce</placeName></p>
+                  </choice><note type="note_commentaire">L'indigence de la chevalerie de Mardocheus
+                     a peut-être favorisé cette leçon fautive que nous corrigeons.</note> en
+                     <placeName key="Grèce">Gresce</placeName></p>
             </div>
             <div type="sup_paragraphe">
                <p n="P132"><persName key="Japhus"><hi rend="decorated-initial 2 red"
                      >J</hi>aphus</persName> li Fris et tamaint autre baron k'il amena od lui ne se
-                  mist mie ariere. <persName key="Josyas">Josias</persName> d'Espagne, ki autrefois
+                  mist mie ariere. <persName key="Josyas">Josias</persName> d'Espagne, ki autre fois
                   avoit esté ou païs, ravoit mis son cuer en la fame ki avoit esté <persName
                      key="Leus">Leum</persName>, file a l'empereur <persName key="Cassidorus"
-                     >Kassidorus</persName>, laquelle avoit non <persName key="Cassidore"
+                     >Kassidorus</persName>, la quelle avoit non <persName key="Cassidore"
                      >Cassidore</persName>. Si n'avoit mie volut aidier au convoiteus <persName
-                     key="Pelyarmenus">Peliarmenum</persName>, por nul denier<note
-                     type="note_apparat">Résolution par V3 de cet unique «d» avec tilde
-                     vertical.</note> k'il li seuist proumettre. Ançois vint en l'aide de <persName
+                     key="Pelyarmenus">Peliarmenum</persName> por nul denier<note
+                     type="note_apparat">Résolution par __V3__ de cet unique _d_ avec tilde
+                     vertical.</note> k'il li seuist proumettre, ançois vint en l'aide de <persName
                      key="Helcanus">Helcanum</persName>, si vint mout esforciement. Que vous iroie
                   ore celant ? Mout eut grant confort <persName key="Helcanus">Helcanus</persName>
                   et asambla ses os es plains de <placeName key="Tabour">Val Tabour</placeName>, <cb
                      n="b"/> u il eut par cont<note type="note_glossaire">«par cont» : «au
                      total»</note>
                   <num>c</num> mil conbatans. <persName key="Pelyarmenus">Peliarmenus</persName>, ki
-                  d'autre part revint, en avoit trop plus, car, ensi conme l'istoire le tiesmougne,
-                  en avoit <num>c</num> et <num>l</num> mil, qu'a piet, qu'a ceval. Ci endroit puet
-                  on auques savoir que, selonc çou qu'il a esté allours contenu, que mout i avoit
+                  d'autre part revint, en avoit trop plus, car ensi conme l'istoire le tiesmougne en
+                  avoit <num>c</num> et <num>l</num> mil, qu'a piet qu'a ceval. Ci endroit puet on
+                  auques savoir que, selonc çou qu'il a esté allours contenu, que mout i avoit
                   d'aucuns boins chevaliers. Dont il avint que ja assés a tans ne quidoient venir
                   ensamble, pour coi il cevaucoient si a esploit que bien sambloit que cascuns
                   quidoit avoir le tout gaegnié.</p>
@@ -6895,16 +6907,15 @@
                      >Coustantinoble</placeName> et li donroit s'amour et devenroit ses hom tout
                   ligement. De ces letres eut <num>x</num> paire en l'ost <persName key="Helcanus"
                      >Helcanus</persName> et en la siue ost <num>xx</num> paire. Ha ! Dieu, con ci a
-                  cruel traïson, et que ne seurent li vallant prince le mortel enconbrier que a
-                  venir leur devoit de ciaus meismes ki plus priés li estoient ! Ha ! Traïsons, con
-                  tu ies invisible ! Ja est il nus ki de toi se puist gaitier. Nenil vraiement, ci
-                  le puet on veoir. Car li faus <persName key="Pelyarmenus">Peliarmenus</persName>
-                  ne quida ja assés a tans venir a sa grant confussion, ne li autre partie a leur
-                  grant martire. Que vous en feroie ore un lonc decrit ? Tant ont cevauciet li un
-                  sour l'autre que les os<note type="note_langue">Le mot os/ost est au féminin dans
-                     le ms.</note> se sont entraprochïes, et vi<supplied resp="#FPZ"
-                     reason="omitted">n</supplied>rent li un les autres qui a miervelles faisoient a
-                  resougnier.</p>
+                  cruel traïson, et que ne seurent li vallant prince le mortel enconbrier que avenir
+                  leur devoit de ciaus meismes ki plus priés li estoient ! Ha ! Traïsons, con tu ies
+                  invisible ! Ja est il nus ki de toi se puist gaitier ! Nenil vraiement, ci le puet
+                  on veoir, car li faus <persName key="Pelyarmenus">Peliarmenus</persName> ne quida
+                  ja assés a tans venir a sa grant confussion ne li autre partie a leur grant
+                  martire. Que vous en feroie ore un lonc decrit ? Tant ont cevauciet li uns sour
+                  l'autre que les os<note type="note_langue">Le mot os/ost est au féminin dans le
+                     ms.</note> se sont entraprochïes, et vi<supplied resp="#FPZ" reason="omitted"
+                     >n</supplied>rent li un les autres qui a miervelles faisoient a resougnier.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P134">
@@ -6916,8 +6927,8 @@
                      >Nisse</placeName>, <persName key="Mirrus">Mirus</persName> et <persName
                      key="Heleus">Heleas</persName>, <persName key="Nestor">Nestor</persName> et
                      <persName key="Licorus">Lichorus</persName> et maint autre baron, dont li
-                  contes fait asés pau de mension<note type="note_commentaire">Il manque à cette
-                     liste Japhus.</note>.</p>
+                  contes fait asés pau de mension<note type="note_commentaire">__C__ omet de cette
+                     liste Japhus, pourtant présent au §132.</note>.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P135">
