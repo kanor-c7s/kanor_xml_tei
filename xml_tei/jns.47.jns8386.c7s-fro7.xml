@@ -6933,18 +6933,21 @@
             <div type="sup_paragraphe">
                <p n="P135">
                   <hi rend="decorated-initial 2 blue">A</hi> l'autre lés, <persName
-                     key="Pelyarmenus">Peliarmenus</persName> avoit mainte plusour batalle de coi li
-                  histore ne touce mie mout, fors des aucuns sans qui li contes ne s'est mie teus de
-                  ci a ore. Et vous dirai d'aucuns : li rois d'<placeName key="Aragon"
-                     >Aragoune</placeName> i fu tres enforciement, li marchis de <placeName
-                     key="Fabonne">Faboune</placeName>, li vasaus de <placeName key="Terre Labour"
-                     >Tiere de Labour</placeName>, li princes d'<placeName key="Aquilée"
-                     >Aquilee</placeName>, li dus de <placeName key="Puille">Pulle</placeName>, li
-                  marcis de <placeName key="Montir">Montir</placeName>, li rois de <placeName
-                     key="Sezille">Sesile</placeName>, li quens de <placeName key="Pise"
-                     >Prisse</placeName>, li visquens de <placeName key="Naples"
-                     >Necuiapolis</placeName>, li quens de <placeName key="Lamorée"
-                     >Lemoree</placeName>, et tant des autres que nul n'i seuist aviser.</p>
+                     key="Pelyarmenus">Peliarmenus</persName> avoit mainte plusour batalle, de coi
+                  li histore ne touce mie mout, fors des aucuns sans<note type="note_langue">_sans
+                     qui_ : on attendrait plutôt _de qui_ dans cette formule.</note> qui li contes
+                  ne s'est mie teus de ci a ore, et vous dirai d'aucuns : li rois d'<placeName
+                     key="Aragon">Aragoune</placeName> i fu tres enforciement, li marchis de
+                     <placeName key="Fabonne">Faboune</placeName>, li vasaus de <placeName
+                     key="Terre Labour">Tiere de Labour</placeName>, li princes d'<placeName
+                     key="Aquilée">Aquilee</placeName>, li dus de <placeName key="Puille"
+                     >Pulle</placeName>, li marcis de <placeName key="Montir">Montir</placeName>, li
+                  rois de <placeName key="Sezille">Sesile</placeName>, li quens de <placeName
+                     key="Pise">Prisse</placeName><note type="note_commentaire">Il s'agit d'une
+                     graphie de la ville de Pise.</note>, li visquens de <placeName key="Naples"
+                     >Necuiapolis</placeName><note type="note_commentaire">Il s'agit de la ville de
+                     Naples.</note>, li quens de <placeName key="Lamorée">Lemoree</placeName>, et
+                  tant des autres que nul n'i seuist aviser.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P136">
@@ -6954,17 +6957,19 @@
                   si fu dus de <placeName key="Nise">Nisse</placeName> et avoit siervi d'armes a
                   l'empereour <persName key="Cassidorus">Kassidorum</persName>. Cil vint a <persName
                      key="Helcanus">Helcanum</persName>, et li dist : <said aloud="true"
-                     direct="true">Sire, si voirement m'aïut li Sires qui me fourma, que mout devés
-                     grant paour avoir <pb
+                     direct="true">Sire, si voirement m'aïut li Sires Qui me fourma que mout devés
+                     grant paour avoir, <pb
                         facs="https://gallica.bnf.fr/ark:/12148/btv1b10023851v/f43.image" n="19r"/>
                      et nel lairai que nel vous die. Il est voirs que la vostre force si est mout
-                     grans, et ce que nous quidoumes bien avoir droit, selonc ce qu'on nos a fait a
-                     entendre. Mais les avenues si sont mout mierveleuses, si ne vous doit mie
-                     anoiier se vos metés vostre frere dou plus en son tort que vous porrés. Jou
-                     irai parler a vostre frere et sarai quel homage il voet avoir de vous. Il
-                     porroit bien avenir qu'on li fait tel cose a entendre qu'il puet avoir couleur
-                     a çou qu'il a entrepris. Se li blasmerai de par vous çou que je quiderai u il
-                     ara raison. Et dou sourplus vos ouverés par consel.</said>
+                     grans, et<note type="note_travail">Remplacer par _en_ ?</note> ce que nous
+                     quidoumes bien avoir droit, selonc ce qu'on nos a fait a entendre. Mais les
+                     avenues si sont mout mierveleuses, si ne vous doit mie anoiier ; se vos metés
+                     vostre frere dou plus en son tort que vous porrés, jou irai parler a vostre
+                     frere et sarai quel homage il voet avoir de vous. Il porroit bien avenir qu'on
+                     li fait tel cose a entendre qu'il puet avoir couleur a çou qu'il a entrepris.
+                     Se li blasmerai de par vous çou que je quiderai u il ara raison, et dou
+                     sourplus vos ouverés<note type="note_langue">Métathèse.</note> par
+                     consel.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Ha ! Sire dus, de consel ne
                      me verés vos ja retroire. Vous m'avés maintes fois siervi, et ferés tant com il
                      vous plaira. Si en faites vostre requeste, mais que <persName key="Dorus"
@@ -6975,25 +6980,26 @@
                <p n="P137">
                   <said aloud="true" direct="true">
                      <hi rend="decorated-initial 2 blue">F</hi>ii ! dist il. Com je a cesti cose
-                     m'acorderoie que li sires requesist son sierf ja par celui Dieu ki naistre de
+                     m'acorderoie que li sires requesist son sierf, ja par celui Dieu ki naistre de
                      mere me fist ! Se vous premiers envoiiés a lui qu'il a vous, ja puis n'i ferrai
                      cop en vostre avancement.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Ha ! Chevaliers de tres
                      grant cuer et de parfaite puissance, ne quidiés mie que je sans ton consel en
-                     doie ouvrer. Ançois nel dist <persName key="Karus">Karus</persName>, a mon
-                     avis, fors que pour droiture, et pour ce que <quote type="proverbe"
-                        xml:id="prov_023">ki s'umelie il s'ensauce</quote>.</said>
+                     doie ouvrer. Ançois nel dist <persName key="Karus">Karus</persName> a mon avis
+                     fors que pour droiture, et pour ce que <quote type="proverbe" xml:id="prov_023"
+                        >ki s'umelie il s'ensauce</quote>.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Voire, dist <persName
                         key="Dorus">Dorus</persName>, enviers home de valor. Mais chi ne voi jou
-                     fors orguel et felounie et que plus s'umelie li proudom enviers le felon et
-                     plus li doune cuer de confondre celui qu'il veut destruire.</said>
+                     fors orguel et felounie. Et que plus s'umelie li proudom enviers le felon, et
+                        plus<note type="note_langue">Ménard 261c.</note> li doune cuer de confondre
+                     celui qu'il veut destruire !</said>
                   <said rendition="dialogue" aloud="true" direct="true">Frere, dist <persName
-                        key="Helcanus">Helcanus</persName>, il avient souvent quant <persName
-                        key="Karus">Karus</persName> oï çou si eut grant despit de çou que ses
-                     consaus ne fu creüs, et dist : <said aloud="true" direct="true"
-                        style="embedded">Sire, ne quidiés mie que por nule male convoitise je vous
-                        en aie dit çou que vos en avés oï, car je ne me dout mie que, quant ce venra
-                        as cos douner, je m'en doie mie mettre ensus.</said></said>
+                        key="Helcanus">Helcanus</persName>, il avient souvent.</said> Quant
+                     <persName key="Karus">Karus</persName> oï çou si eut grant despit de çou que
+                  ses consaus ne fu creüs, et dist : <said aloud="true" direct="true">Sire, ne
+                     quidiés mie que por nule male convoitise je vous en aie dit çou que vos en avés
+                     oï, car je ne me dout mie que, quant ce venra as cos douner, je m'en doie mie
+                     mettre ensus.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Biau sire <persName
                         key="Karus">Karus</persName>, dist <persName key="Dorus">Dorus</persName>,
                      de ce n'avons nous nule doute, mais je m'avise d'une cose que jou ai entendu :
@@ -7001,17 +7007,17 @@
                      fel sierf en qui il n'a foi ne mierci set que li force est siue, me douteroie
                      jou qu'il ne nos euist en despit.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Sire, dist <persName
-                        key="Karus">Karus</persName>, je nous tieng a mout sage et non mie si que je
+                        key="Karus">Karus</persName>, je vous tieng a mout sage et non mie si que je
                      ne prise plus la vostre grant chevalerie et le hardement ki en vous est que
-                     nule autre cose. Et ne vous anuit uns mos que je vos voel encore dire. Et puis
-                     irons cascuns de nous a nostre batalle coume cil que n'i avons qu'ester. Il est
-                     voirs tout çou que vos avés pensé et dit en droit de çou que, kiconques
+                     nule autre cose. Et ne vous anuit uns mos que je vos voel encore dire, et puis
+                     irons cascuns de nous a nostre batalle, coume cil que n'i avons qu'ester. Il
+                     est voirs tout çou que vos avés pensé et dit endroit, de çou que, kiconques
                      s'umelie enviers felon, qu'il li doune cuer de soi confondre.</said>
                   <said rendition="dialogue" aloud="true" direct="true">En non Dieu, dist <persName
                         key="Dorus">Dorus</persName>, ce ne di jou mie, ançois di qu'il li doune
                      cuer de confondre celui qui il voet destruire.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Sire, dist il, ensi l'ai je
-                     mout bien entendut. Mais je le voloie dire par autres paroles, et por ce n'ai
+                     mout bien entendut. Mais je le voloie dire par autres paroles. Et por ce n'ai
                      jou mie oublié çou qui contraire est a celui ki cuer prenderoit contre douce
                      requeste. Les mesceances <cb n="b"/> avienent par orguel. Et vos ja ne verés
                      home venir au deseure de refuser raisson et droiture que, se il en vient au
@@ -7022,45 +7028,47 @@
             </div>
             <div type="sup_paragraphe">
                <p n="P138">
-                  <hi rend="decorated-initial 2 red">Q</hi>uant ce eut dit <persName
-                     key="Cassidorus">Kassidorus</persName> oiant tous, n'i eut nul qui ne deist en
-                  lui meisme que mout ert sages <persName key="Cassidorus">Kassidorus</persName> et
-                  parfais en chevalerie. Mais n'i eut si hardi ki osast respondre pour <persName
-                     key="Dorus">Dorus</persName>, et il dist apriés le duc : <said aloud="true"
-                     direct="true">Il me poise dou sairement que jou ai fait, car je ne me dounoie
-                     regart de cestui point, ne je mie ne voel por moi demeurt cis consaus qui est
-                     droituriers. Et Dieu le me pardoinst, si voirement que je n'i regarde fors
-                     droiture a mon avis.</said> Dont se traist <persName key="Cassidorus"
-                     >Kassidorus</persName> a sa batalle sans plus parler. Et uns autres princes ki
-                  ot non <persName key="Mirrus">Mirus</persName> vint a <persName key="Dorus"
+                  <hi rend="decorated-initial 2 red">Q</hi>uant ce eut dit <persName key="Karus"
+                     >Karus</persName> oiant tous, n'i eut nul qui ne deist en lui meisme que mout
+                  ert sages <persName key="Karus">Karus</persName> et parfais en chevalerie. Mais
+                  n'i eut si hardi ki osast respondre pour <persName key="Dorus">Dorus</persName>,
+                  et il dist apriés le duc : <said aloud="true" direct="true">Il me poise dou
+                     sairement que jou ai fait, car je ne me dounoie regart de cestui point, ne je
+                     mie ne voel <supplied reason="missing">que</supplied><note type="note_travail"
+                        >Vérifier qu'il faille ajouter le _que_.</note> por moi demeurt cis consaus
+                     qui est droituriers. Et Dieu le me pardoinst, si voirement que je n'i regarde
+                     fors droiture a mon avis.</said> Dont se traist <persName key="Karus"
+                     >Karus</persName> a sa batalle sans plus parler. Et uns autres princes, ki ot
+                  non <persName key="Mirrus">Mirus</persName>, vint a <persName key="Dorus"
                      >Dorus</persName> et li dist : <said aloud="true" direct="true">Sire, ne vos
-                     anuit de vostre sairement, car ne quidiés mie mesire vostre pere n'eut mie
-                     vostre maniere, car jou li oï dire que sairemens ki fais n'estoit par consel
-                     n'estoit a tenir a celui ki veoit ki n'i avoit couleur de droiture. Et, a
-                     l'autre lés, mesire vostre frere n'i envoiera mie, ançois irai u <persName
-                        key="Cassidorus">Kassidorus</persName> de nostre <choice>
+                     anuit de vostre sairement, car ne quidiés mie mesire vostre pere <unclear
+                        cert="low" reason="acertain">n'eut mie vostre maniere</unclear>, car jou li
+                     oï dire que sairemens ki fais n'estoit par consel n'estoit a tenir a celui ki
+                     veoit k'i n'i avoit couleur de droiture. Et a l'autre lés, mesire vostre frere
+                     n'i envoiera mie, ançois irai <unclear cert="low" reason="acertain">u</unclear>
+                     <persName key="Karus">Karus</persName> de nostre <choice>
                         <orig>Espagne</orig>
                         <reg source="V3">plainne</reg>
                      </choice> volenté.</said>
                   <said rendition="dialogue" aloud="true" direct="true">Amis, dist il, je vois a ma
-                     gent, car il m'est avis que je les voi ci venir sour nos et alés quel part
-                     qu'il vos plaist, car je m'otroi a tous consaus, ki ne soient de felon.</said>
-                  Atant vint <persName key="Mirrus">Mirus</persName> a <persName key="Cassidorus"
-                     >Kassidorus</persName> et li dist : <said aloud="true" direct="true">Sire, de
-                     vostre consel ne doit nus recroire. Aler vos convient el mesage.</said>
+                     gent, car il m'est avis que je les voi ci venir sour nos. Et alés quel part
+                     qu'il vos plaist, car je m'otroi a tous consaus, k'i ne soient de felon.</said>
+                  Atant vint <persName key="Mirrus">Mirus</persName> a <persName key="Karus"
+                     >Karus</persName> et li dist : <said aloud="true" direct="true">Sire, de vostre
+                     consel ne doit nus recroire. Aler vos convient el mesage.</said>
                   <said rendition="dialogue" aloud="true" direct="true"><persName key="Mirrus"
                         >Mirum</persName>, <persName key="Mirrus">Mirum</persName>, dist <persName
-                        key="Cassidorus">Kassidorus</persName>, c'est a tart ! Veés ici vos anemis u
-                     vienent fel et orgillous et ki sevent lor victoire. Mais nos, ki avons a
-                     soufrir çou que vos porés encore anuit savoir, ne doutons, et <quote
-                        type="proverbe" xml:id="prov_024">uns seus jors de respit <num>c</num> mars
-                        vaut</quote>. A la jornee d'ui, pierdre nous convient, mais je ne sai mie
-                     conbien. Sire, tournés a vostre gent car, se vous passés outre, je me dout que
-                     vous n'i soiiés retenus.</said> Atant se mist <persName key="Mirrus"
-                     >Mirus</persName> viers l'ost <persName key="Pelyarmenus"
-                     >Peliarmenum</persName> a guise d'oume ki mesage voloit dire, et on li fist
-                  voie de ci a <persName key="Pelyarmenus">Peliarmaine</persName>, ki conmanda sa
-                  gent a ariester de ci adont que cil euist dit son mesage.</p>
+                        key="Karus">Karus</persName>, c'est a tart ! Veés ici vos anemis u vienent,
+                     fel et orgillous, et ki sevent lor victoire. Mais nos, ki avons a soufrir çou
+                     que vos porés encore anuit savoir, ne doutons. Et <quote type="proverbe"
+                        xml:id="prov_024">uns seus jors de respit <num>c</num> mars vaut</quote>. A
+                     la jornee d'ui pierdre nous convient, mais je ne sai mie conbien. Sire, tournés
+                     a vostre gent car, se vous passés outre, je me dout que vous n'i soiiés
+                     retenus.</said> Atant se mist <persName key="Mirrus">Mirus</persName> viers
+                  l'ost <persName key="Pelyarmenus">Peliarmenum</persName> a guise d'oume ki mesage
+                  voloit dire, et on li fist voie de ci a <persName key="Pelyarmenus"
+                     >Peliarmaine</persName>, ki conmanda sa gent a ariester de ci adont que cil
+                  euist dit son mesage.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P139">
@@ -7073,19 +7081,19 @@
                   <said rendition="dialogue" aloud="true" direct="true"><persName key="Mirrus"
                         >Mirum</persName>, dist il, asés savés la raison, et encor me plaist que vos
                      mius le saciés. Il est voirs que en grant signe d'amor je mandai vostre signor
-                     qu'il me venist veoir a <placeName key="Rome">Rome</placeName>, autresi com jou
+                     qu'il me venist veoir a <placeName key="Rome">Rome</placeName> autresi com jou
                      estoie lui alés veoir, et il me remanda orguel et felounie, en tel maniere que
                      je la tiere et l'empire dont ses peres avoit esté ahiretés et receus les
-                     houmages widasse, u je venisse en liu u il et jou le puissons desraisnier, car
+                     houmages widasse u je venisse en liu u il et jou le puissons desraisnier, car
                         <pb facs="https://gallica.bnf.fr/ark:/12148/btv1b10023851v/f44.image"
                         n="19v"/> jou n'i avoie droit, coume cil ki mie n'avoie esté engenrés de son
                      pere. Et de ce ne me doi je mie mout courecier, car on set bien que sa mere fu
                      cacïe de l'empire por ce qu'elle s'abandounoit a garçons et allours, dont il fu
                      engenrés. Et celle, ki seut d'art d'ingremance, fist tant que li diable le
-                     garirent a ce que puis se racorda a men pere qui maniere en amenee qu'on assés
-                     bien set. Si voirement m'aït <name type="people" ref="#Jhesucrist">Nostre
-                        Sire</name>, si le conpera vostre sire avant que je jamais repaire ens en
-                     l'enpire de <placeName key="Rome">Rome</placeName>.</said>
+                     garirent a ce que puis se racorda a men pere, qui ma mere en a menee qu'on
+                     assés bien set. Si voirement m'aït <name type="people" ref="#Jhesucrist">Nostre
+                        Sire</name>, si le conpera vostre sire, avant que je jamais repaire ens en
+                     l'enpire de <placeName key="Rome">Rome</placeName> !</said>
                   <said rendition="dialogue" aloud="true" direct="true">Sire, dist <persName
                         key="Mirrus">Mirus</persName>, je ne sui mie ci venus por a vous ci horer,
                      ançois s'il vous plaisoit responderoie a çou qu'on vous a fait
@@ -7102,16 +7110,17 @@
                      devoit iestre hom a l'empereur de <placeName key="Rome">Rome</placeName> et que
                      vos voliés qu'il fust vostre hom. Mesire, ki mie ne quidoit que vous çou li
                      deuissiés querre c'autres n'avoit fait a ses suscesseurs, com hom iriés
-                     respondi a ce que vos avant tenriés de lui vostre empire que il de vous le
-                     sien, et s'il estoit ensi que vos vausissiés mettre ces chosses a bien, si
-                     feissiés respitier ceste journee, mesire le feroit a l'autre lés.</said>
+                     respondi a ce que <said direct="false" aloud="true">vos avant tenriés de lui
+                        vostre empire que il de vous le sien, et s'il estoit ensi que vos vausissiés
+                        mettre ces chosses a bien, si feissiés respitier ceste journee, mesire le
+                        feroit a l'autre lés.</said></said>
                   <said rendition="dialogue" aloud="true" direct="true"><persName key="Mirrus"
                         >Miror</persName>, dist il, voirement dites vous miervelle ! Se vostre sire
                      se viut mettre deviers moi tant qu'on sace la verité, je le sousferai a venir a
-                     amende, et se ce non, si en ait ki bien la desiervi !</said>
+                     amende ; et se ce non, si en ait ki bien la desiervi !</said>
                   <persName key="Mirrus">Mirus</persName>, ki fu avisés, dist : <said aloud="true"
                      direct="true">Sire, bien avés dit et je le ferai ensi mon signor savoir.</said>
-                  <said rendition="dialogue" aloud="true" direct="true">Alés dont,</said> dist
+                  <said rendition="dialogue" aloud="true" direct="true">Alés dont !</said> dist
                      <persName key="Pelyarmenus">Peliarmenus</persName>.</p>
             </div>
             <div type="sup_paragraphe">
@@ -7119,43 +7128,49 @@
                   <hi rend="decorated-initial 2 red">E</hi>nsi se parti sagement <persName
                      key="Mirrus">Mirus</persName> dou traïtour, car autrement l'euist il detenut.
                   Et quant il vint ariere, il lor conta la felounie qu'il avoit trové, dont il avint
-                  que cascuns proudom avoit cuer de lion et li autre eurent paour et li tierc
-                  convoitierent la destruision de lor signour droiturier. Ha ! Las<note
-                     type="note_glossaire">Interjection qui exprime la douleur, le regret,
-                     l'apitoiement sur soi-même. (Buridant, §683 ; DMF, «las»)</note> ! Com ci avint
-                  grande pitiés de si tres noble vasaus. Et <name type="people" ref="#Jhesucrist"
-                     >Nostre Sire</name>, ki ne veut les siens fors par glave, sousfri que ces
-                     <num>ii</num> os s'amanevirent de venir ensamble, et vous dirai coment.
-                     <persName key="Dorus">Dorus</persName>, ki bien quidoit tout sourmonter a faire
-                  d'armes el conmencement, ne veut soufrir que nus euist la premiere batalle s'il
-                  non. <persName key="Mirrus">Mirus</persName>, la seconde. <persName key="Karus"
-                     >Karus</persName>, la tierce. <persName key="Josyas">Josias</persName>, la
-                  quarte. <persName key="Japhus">Japhus</persName>, la quinte. Et <persName
-                     key="Helcanus">Helcanus</persName> fu li estandars. <persName key="Mardocheus"
-                     >Mardocheus</persName> fu li ariere garde, qui maint vallant baroni eut en sa
-                  batalle. A l'autre lés eut li marcis de <placeName key="Fabonne"
-                     >Faboune</placeName> la premiere. Li vasaus l'autre. Li dus de <placeName
-                     key="Puille">Pulle</placeName>, la tierce. Li rois de <placeName key="Sezille"
-                     >Sesile</placeName>, la quarte. Li visquens de <placeName key="Naples"
-                     >Nequiapolis</placeName>, la quinte. Li marcis de <placeName key="Montir"
-                     >Montir</placeName>, la <num>vi</num>. Li quants de <placeName key="Pise"
-                     >Prisse</placeName>, la <num>vii</num>. <persName key="Pelyarmenus"
+                  que cascuns proudom avoit cuer de lion<note type="note_commentaire">Le coeur de
+                     lion, tout comme celui de léopard, est un signe d'audace et de courage (DMF,
+                     _coeur_).</note> et li autre eurent paour et li tierc convoitierent la
+                  destruision de lor signour droiturier. Ha ! Las<note type="note_glossaire"
+                     >Interjection qui exprime la douleur, le regret, l'apitoiement sur soi-même.
+                     (Buridant, §683 ; DMF, «las»)</note> ! Com ci avint grande pitiés de si tres
+                  noble vasaus ! Et <name type="people" ref="#Jhesucrist">Nostre Sire</name>, Ki ne
+                  veut les siens fors par glave, sousfri que ces <num>ii</num> os s'amanevirent de
+                  venir ensamble, et vous dirai coment. <persName key="Dorus">Dorus</persName>, ki
+                  bien quidoit tout sourmonter a faire d'armes el conmencement, ne veut soufrir que
+                  nus euist la premiere batalle s'il non ; <persName key="Mirrus">Mirus</persName>,
+                  la seconde ; <persName key="Karus">Karus</persName>, la tierce ; <persName
+                     key="Josyas">Josias</persName>, la quarte ; <persName key="Japhus"
+                     >Japhus</persName>, la quinte ; et <persName key="Helcanus">Helcanus</persName>
+                  fu li estandars. <persName key="Mardocheus">Mardocheus</persName> fu li ariere
+                  garde, qui maint vallant baron eut en sa batalle. A l'autre lés eut li marcis de
+                     <placeName key="Fabonne">Faboune</placeName> la premiere ; li vasaus<note
+                     type="note_commentaire">Celui de Terre Labour</note>, l'autre ; li dus de
+                     <placeName key="Puille">Pulle</placeName>, la tierce ; li rois de <placeName
+                     key="Sezille">Sesile</placeName>, la quarte ; li visquens de <placeName
+                     key="Naples">Nequiapolis</placeName>, la quinte ; li marcis de <placeName
+                     key="Montir">Montir</placeName>, la <num>vi</num> ; li quants de <placeName
+                     key="Pise">Prisse</placeName>, la <num>vii</num> ; <persName key="Pelyarmenus"
                      >Peliarmenus</persName> fu en l'estandart. Li princes d'<placeName
                      key="Aquilée">Aquilee</placeName>
                   <cb n="b"/> en <num>viii</num>. Et li rois d'<placeName key="Aragon"
-                     >Aragon</placeName> fu en l'ariere esciele, qui mout s'aati de mettre au
-                  soufrir chiaus qui jadis l'avoient mis au bas.</p>
+                     >Aragon</placeName> fu en l'ariere esciele<note type="note_commentaire">Il
+                     s'agit de l'arrière-garde ; l'_esciele_ désigne un grand corps de troupes
+                     rangées en bataille (Godefroy, _eschiele_1).</note>, qui mout s'aati de mettre
+                  au soufrir chiaus qui jadis l'avoient mis au bas.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P141">
                   <hi rend="decorated-initial 2 blue">L</hi>i marcis de <placeName key="Fabonne"
                      >Faboune</placeName>, ki jones et plains fu de ses volentés, vit venir
-                     <persName key="Dorus">Dorus</persName> od lui grant pelenté de barounie, et non
-                  mie a loi de gent espardue. Il, a l'autre lés, ne se maintint mie com hons maris,
-                  anchois envoia au vassal de <placeName key="Terre Labour">Tiere Labour</placeName>
-                  qu'il ne laissast mie, coment que la cose se preist, qu'il n'asamblast assés tost
-                  apriés çou k'il seroit mis a la batalle car, se il celi pooit outrer, as autres
-                  n'aroit que faire.</p>
+                     <persName key="Dorus">Dorus</persName>, od lui grant pelenté<note
+                     type="note_langue">épenthèse ?</note> de barounie, et non mie a loi de gent
+                     espardue<note type="note_travail">Résolution du _p barré_ en _par_ et non en
+                     _per_.</note>. Il, a l'autre lés, ne se maintint mie com hons maris, anchois
+                  envoia au vassal de <placeName key="Terre Labour">Tiere Labour</placeName> qu'il
+                  ne laissast mie, coment que la cose se preist, qu'il n'asamblast assés tost apriés
+                  çou k'il seroit mis a la batalle car, se il celi pooit outrer, as autres n'aroit
+                  que faire.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P142">
@@ -7163,9 +7178,14 @@
                   d'ambes pars. Ha ! Ki dont oïst cors et arainnes souner, taburs et timbres tentir
                   et freteler, ces armes resplendir et ces labiaus voler, le solel el fin or reluire
                   et alumer, cest diestriers par orguel braidir et travierser, ces chevaliers en
-                  armes, lor escus acoler, ces fors espius brandir estraindre et aviser, souvent
-                  d'eures en autres soufaskier et conbrer, ne fust couars el mande ne deust
-                  recouvrer cuer et vigour en soi.</p>
+                  armes, lor escus acoler, ces fors espius brandir, estraindre et aviser, souvent
+                  d'eures en autres soufaskier et conbrer, ne fust couars el <choice>
+                     <orig>mande</orig>
+                     <reg>monde</reg>
+                  </choice><note type="note_langue">_Ki dont oïst... monde_ : rupture de
+                     construction.</note>
+                  <supplied reason="missing" source="#Pelyarmenus">qui</supplied> ne deust recouvrer
+                  cuer et vigour en soi.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P143">
@@ -7173,13 +7193,19 @@
                      key="Dorus">Dorus</persName> et li marcis si aigrement que le plus tost qu'il
                   peurent venir ensamble s'entreferirent des espius en tel maniere qu'il n'i eut si
                   fort que tost ne volast en pieces, dont dou plus fueble deuist iestre mis a tiere
-                  uns aumaçors. Et por ce ne demora mie k'en cel poindre misent tost main as espees
-                  et s'entrevinrent de si miervelleus aïr qu'il n'i eut celui escu qu'il n'aient
-                  pourfendu de ci en la boucle, et descendirent li cop sour les hiaumes, ki furent
-                  aduret. Et nonporquant, cil ki fu li plus fors ne peut le cop tenir qu'il ne soit
-                  entrés en la coiffe et li bacins faussés. Apriés cestui ont taint autre ferut, si
-                  qu'en la fin <persName key="Dorus">Dorus</persName> a mis le marcis au sousfrir.
-                  Mais ce, que valut ? Li vasaus de <placeName key="Terre Labour">Tiere
+                  uns aumaçors<note type="note_commentaire">Il y a une certaine ambiguité ici sur la
+                     résolution de _aumaçors_. On a pu y lire un syntagme prépositionnel _au
+                     maçors_, _maçors_ désignant une arme de frappe puissante. Nous comprenons
+                     plutôt qu'il s'agit d'un _aumaçor_, qui désigne certes un dignitaire sarrasin,
+                     mais surtout l'homme fort et brave qu'il est au combat. Ainsi, les combattants
+                     sont si puissants que le moindre d'entre eux eût suffi à mettre un _aumaçor_ à
+                     terre.</note>. Et por ce ne demora mie k'en cel poindre misent tost main as
+                  espees, et s'entrevinrent de si miervelleus aïr qu'il n'i eut celui escu qu'il
+                  n'aient pourfendu de ci en la boucle, et descendirent li cop sour les hiaumes, ki
+                  furent aduret. Et nonporquant, cil ki fu li plus fors ne peut le cop tenir qu'il
+                  ne soit entrés en la coiffe et li bacins faussés. Apriés cestui ont taint autre
+                  ferut, si qu'en la fin <persName key="Dorus">Dorus</persName> a mis le marcis au
+                  sousfrir. Mais ce, que valut ? Li vasaus de <placeName key="Terre Labour">Tiere
                      Labour</placeName> li revint, qui tous entais feri sour lui. Et cil iert trop
                   grans et fors et le quida prendre a mescief, mais cil, en qui proecce florissoit,
                   le prist en tel maniere que la u li vasaus le quida ferir se hasta <persName
@@ -7187,21 +7213,22 @@
                   l'assiele li coula el cors. Par cestui tour recouvra <persName key="Dorus"
                      >Dorus</persName> au marchis, qu'il l'euist mort se Dieu le vosist avoir
                   soufiert. Mais quant li vasaus fu ceus, si tres grans force vint sour lui que il
-                  n'eut pooir de plus faire qui se traist ensus castoiant de l'espee de si ruiste
+                  n'eut pooir de plus faire qu'i se traist ensus castoiant de l'espee de si ruiste
                   maniere que mal de celui qui ne fust tous liés quant il lor fu ensus trais.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P144">
                   <hi rend="decorated-initial 2 red">L</hi>i marcis, qui il sambla qu'il ert venus
                   de mort a vie, vis que li vasaus fu ocis, et dist : <said aloud="true"
-                     direct="true">Biau signour, mout a ci grant mescief. Alés et s'enportés le
-                     vassal, et ne quidiés mie que tant conme <pb
+                     direct="true">Biau signour, mout a ci<note type="note_commentaire">Mis pour
+                        _si_.</note> grant mescief ! Alés et s'enportés le vassal, et ne quidiés mie
+                     que tant conme <pb
                         facs="https://gallica.bnf.fr/ark:/12148/btv1b10023851v/f45.image" n="20r"/>
-                     <persName key="Dorus">Dorus</persName> iert lassés ne poroit avoir a lui nus
+                     <persName key="Dorus">Dorus</persName> iert lassés, ne poroit avoir a lui nus
                      hom duree. Et moi le couvient gaitier et le prenderai a point, se jou onques
                      puis.</said> Ensi avint que <persName key="Dorus">Dorus</persName> aloit les
-                  grans priesses cierkant, et ne quidiés mie que li sien chevaliers fussent oiseus.
-                  Saciés de voir que il non, car li contes dist qu'a pau priés ci avoit li uns a
+                  grans priesses cierkant, et ne quidiés mie que li sien chevaliers fussent oiseus :
+                  saciés de voir que il non, car li contes dist qu'a pau priés ci avoit li uns a
                   faire ausi com a aus <num>ii</num>. Mais <persName key="Dorus">Dorus</persName>,
                   qui par la batalle gardoit les siens et confortoit en decoupant et abatant ses
                   anemis, lor dounoit cuer et hardement de faire çou qu'il faisoient. La gent au
@@ -7209,9 +7236,9 @@
                      >Peliarmenus</persName>, qui conmanda que li dus de <placeName key="Puille"
                      >Pulle</placeName> s'abandounast, et il si fist, entalentius de faire
                   chevalerie. Si avint k'en poi d'eure <persName key="Grecs">Griu</persName> en
-                  eurent le piour. Quant <persName key="Mirrus">Mirus</persName> s'est mis avant,
-                  lui et li sien, qui ne furent mie a aprendre a qui il devoient avoir le tournoi,
-                  ançois trouvons el conte ki assés briement en parole, et ne puet mie del tout
+                  eurent le piour quant <persName key="Mirrus">Mirus</persName> s'est mis avant, lui
+                  et li sien, qui ne furent mie a aprendre a qui il devoient avoir le tournoi ;
+                  ançois trouvons el conte, ki assés briement en parole et ne puet mie del tout
                   raconter le fait de cascun, que <persName key="Mirrus">Mirus</persName> et li sien
                   misent si au desous es premieres venues le duc de <placeName key="Puille"
                      >Pulle</placeName> et le marcis qu'il en pau d'eure ne sortirent de ci a lor
@@ -7233,9 +7260,9 @@
                   fust dounés regart un cop de si fort brac qu'il andeus en guerpi les estriers, et
                   s'aclina sour le col dou diestrier, si qu'avant qu'il les euist recouvrés li vint
                   li marcis de si priés que, vausist u non, le mist jus a tiere dou cheval. Illuec
-                  fu mis a piet li preus <persName key="Dorus">Dorus</persName>, ki ainc mais, jor
-                  de sa vie, n'avoit esté mis a tiere pour cop qu'il receust, et pour ce fu il si
-                  iriés que la u il vit le marcis, le courut il sus conme lions, et li pourfendi son
+                  fu mis a piet li preus <persName key="Dorus">Dorus</persName>, ki ainc mais jor de
+                  sa vie n'avoit esté mis a tiere pour cop qu'il receust. Et pour ce fu il si iriés
+                  que la u il vit le marcis le courut il sus conme lions et li pourfendi son
                   diestrier de ci k'en la coraille.</p>
             </div>
             <div type="sup_paragraphe">
@@ -7257,13 +7284,13 @@
                      key="Mirrus">Mirus</persName> a piet et vint au marcis de <placeName
                      key="Montir">Montir</placeName> et li dist en reproce : <said aloud="true"
                      direct="true">Mal vos est encontre quant vous onques fustes si osés que vous au
-                     millour des bons vous osastes prendre.</said> A che mot saisi <persName
+                     millour des bons vous osastes prendre !</said> A che mot saisi <persName
                      key="Dorus">Dorus</persName> le Fabounois et <persName key="Mirrus"
-                     >Mirus</persName> de <placeName key="Montir">Montir</placeName> le marcis et en
-                  fu faite d'iaus <num>ii</num> la desevree<note type="note_glossaire">la
-                     «séparation»</note>. Et sont mis <persName key="Dorus">Dorus</persName> ou
+                     >Mirus</persName> de <placeName key="Montir">Montir</placeName> le marcis, et
+                  en fu faite d'iaus <num>ii</num> la desevree<note type="note_glossaire">La
+                     _séparation_</note>. Et sont mis <persName key="Dorus">Dorus</persName> ou
                   ceval de <placeName key="Fabonne">Faboune</placeName> et <persName key="Mirrus"
-                     >Mirus</persName> el sien meisme ; ensi n'eussent eu garde nostre franc
+                     >Mirus</persName> el sien. Meisme ensi n'eussent eu garde nostre franc
                   chevalier, mais que li autre se fussent ensi prouvé.</p>
             </div>
             <div type="sup_paragraphe">
@@ -7271,12 +7298,12 @@
                   <hi rend="decorated-initial 2 blue">Q</hi>uant <persName key="Fabonnois"
                      >Fabounois</persName> et cil de <placeName key="Montir">Montir</placeName>
                   seurent que leur signor furent ensi mis a mort, mout furent abaubit et n'eurent
-                  cuer depuis bien esploitier. Atant ont livré les dos, et cil les ont menés de ci a
-                  lor gent, qui a ce ont recouvré, que li quens de <placeName key="Pise"
+                  cuer de puis bien esploitier. Atant ont livré les dos, et cil les ont menés de ci
+                  a lor gent, qui a ce ont recouvré, que li quens de <placeName key="Pise"
                      >Prisse</placeName> et li marcis de <placeName key="Naples"
                      >Nequiapolis</placeName>, meisme li estandars <persName key="Pelyarmenus"
-                     >Peliarmenus</persName> se sont ferut entre Grigois, si a une envaïe que mout
-                  en i eut d'ocis et d'afollés. Que vous iroie ore huimais delaïant ? Trop aroie a
+                     >Peliarmenus</persName> se sont ferut entre Grigois si a une envaïe que mout en
+                  i eut d'ocis et d'afollés. Que vous iroie ore huimais delaïant ? Trop aroie a
                   retraire se je tout en voloie ordenance dire, mais je non fors de tant que des
                   mius faisans me couvient mension faire.</p>
             </div>
@@ -7284,42 +7311,42 @@
                <p n="P148">
                   <hi rend="decorated-initial 2 red">E</hi>n ce que je vous laissai ore a dire, vint
                      <persName key="Karus">Karus</persName> a la batalle autresi fiers conme cil ki
-                  nul chevalier n'encontroit qu'il ne meist jus dou ceval mort u afolé. <persName
-                     key="Josyas">Josias</persName> a l'autre fois revint, ki mout gentement si
+                  nul chevalier n'encontroit qu'il ne meist jus dou ceval, mort u afolé. <persName
+                     key="Josyas">Josias</persName> a l'autre fois revint, ki mout gentement s'i
                   reprouva. <persName key="Helcanus">Helcanus</persName>, ki seut que <persName
                      key="Pelyarmenus">Peliarmenus</persName> estoit a la batalle, ne veut atargier
-                  que tout autresi com hons sans mesure et qui ne li caille qu'il deviegne, feri le
+                  que tout autresi com hons sans mesure, et qui ne li caille qu'il deviegne, feri le
                   diestrier par andeus les costes si aigrement que tuit cil ki entour lui furent en
-                  eurent grant miervelle. Et li cevaus, ki grans et fors et rades estoit, et avoec
+                  eurent grant miervelle. Et li cevaus, ki grans et fors et rades estoit et avoec
                   tout çou li miudres dou monde, se mist a la voie la u il le volt conduire en tel
                   maniere que tout cil ki voie ne li fissent peurent bien mal encontre faire. Et
                   quant cil en qui il se fioit ont ce veut, si ne vorent laissier qu'il ne li
-                  feissent siute. Et cil ki avoit ou cors l'ardure dou honte et dou lait qu'on li
+                  feissent siute. Et cil, ki avoit ou cors l'ardure dou honte et dou lait qu'on li
                   faissoit, s'abandouna trop a çou que il estoit gaités des traïtours ki le voloient
                   sousprendre, dont il avint que, quant il vint entre ses anemis, que tout en autel
-                  maniere coume li espreviers qui se fiert entre les menus oisellons et il le vont
-                  fuiant, autresi li faisoient voie li plusior. Et cil ki contre lui se metoient n'i
-                  avoient duree. Si avint que tuit li fisent voie tout la u il voloit aler. <note
+                  maniere coume li espreviers qui se fiert entre les menus oisellons<note
+                     type="note_commentaire">Comparaison animalière.</note> et il le vont fuiant,
+                  autresi li faisoient voie li plusior. Et cil ki contre lui se metoient n'i avoient
+                  duree. Si avint que tuit li fisent voie tout la u il voloit aler. <note
                      type="note_apparat">Comme B, absence de l'annonce de la mort de <persName
-                        key="Pelyarmenus">Peliarmenus</persName>.</note> En çou que il se maintint
-                  en tel maniere esgarda uns chevaliers cestui afaire et en vint au plus tost k'il
-                  peut a <persName key="Mirrus">Mirum</persName> le Fier et li dist : <said
+                        key="Helcanus">Helcanus</persName>.</note> En çou que il se maintint en tel
+                  maniere, esgarda uns chevaliers cestui afaire et en vint au plus tost k'il peut a
+                     <persName key="Mirrus">Mirum</persName>, le fier, et li dist : <said
                      aloud="true" direct="true">Ha ! Sire, tout avons pierdu se vous ne soucourés
                      mon signour !</said> Dont li conta coment li empereres se maintint folement.
                   Atant guenci <persName key="Mirrus">Mirus</persName> celle part et trova que <pb
                      facs="https://gallica.bnf.fr/ark:/12148/btv1b10023851v/f46.image" n="20v"/> li
                   preus <persName key="Helcanus">Helcanus</persName> estoit ja entrepris en tel
-                  maniere que ja s'estoit mis au soufrir, quant<note type="note_glossaire">«que
-                     ja... quant» signifie «à peine..., que...»</note>
-                  <persName key="Mirrus">Mirus</persName> et li aucun des siens vinrent et
-                  desrompirent la priesse, la endroit fu bien esprouvee li proecce et li amors que
-                     <persName key="Mirrus">Mirus</persName> eut en soi, car li contes dist
-                  qu'ançois que <persName key="Helcanus">Helcanus</persName> se peuist pierçoivre de
-                  secours qu'il euist, en mist il a mort <num>x</num>. Et quant il se senti lasquit
-                  et il se fu ausi coume un poi resouflés, adont s'afiça es estriers de si grant
-                  force que li diestriers desous lui arçoia, dont il avint qu'a l'aficier qu'il fist
-                  estrainst l'espee et feri a diestre et a seniestre de si grant aïr que nus ne
-                  peuist ses pesans cols soustenir.</p>
+                  maniere que ja s'estoit mis au soufrir. Quant <persName key="Mirrus"
+                     >Mirus</persName> et li aucun des siens vinrent et desrompirent la priesse, la
+                  endroit fu bien esprouvee li proecce et li amors que <persName key="Mirrus"
+                     >Mirus</persName> eut en soi, car li contes dist qu'ançois que <persName
+                     key="Helcanus">Helcanus</persName> se peuist pierçoivre de secours qu'il euist,
+                  en mist il a mort <num>x</num>. Et quant il se senti lasquit et il se fu ausi
+                  coume un poi resouflés, adont s'afiça es estriers de si grant force que li
+                  diestriers desous lui arcoia, dont il avint qu'a l'aficier qu'il fist estrainst
+                  l'espee et feri a diestre et a seniestre de si grant aïr que nus ne peuist ses
+                  pesans cols soustenir.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P149">
@@ -10162,7 +10189,7 @@
                   que ce ne fust songes, et se pensa maintenant qu'il s'esvierturoit a ce qui saroit
                   en queil point il ere. Lors s'est en ses armes achains, et s'aficha ens estriers
                   de si grant force qu'il escomut le cheval de tous les <num>iiii</num> piés, et le
-                  covint arçoiier<note type="note_langue">Il faut rapprocher ce terme du latin <hi
+                  covint arcoiier<note type="note_langue">Il faut rapprocher ce terme du latin <hi
                         rend="italic">arcuare</hi> dans un sens imagé : "se courber en arc" (FEW,
                      25.109a). Le cheval, dans son brusque élan, se ploie comme un arc.</note>. Et a
                   cele poinst par grant viertut des esporons, si qu'il li sailli au travers de la
