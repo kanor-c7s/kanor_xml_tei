@@ -1324,10 +1324,11 @@
                   </note>
                </person>
 
-               <person xml:id="Sodore">
-                  <persName>Sodore</persName>
-                  <occupation>chevalier de la troupe de Mardocheus</occupation>
-                  <occupation>meurt en tentant de tuer Pelyarmenus</occupation>
+               <person xml:id="Sodorés">
+                  <persName>Sodorés</persName>
+                  <note type="relationships">Chevalier de la troupe de <persName ref="#Mardocheus"
+                        >Mardocheus</persName> qui tente de tuer <persName ref="#Pelyarmenus"
+                        >Pelyarmenus</persName></note>
                </person>
 
                <person xml:id="Eleazar">
@@ -7408,22 +7409,22 @@
             </div>
             <div type="sup_paragraphe">
                <p n="P151">
-                  <persName key="Sodore"><hi rend="decorated-initial 2 blue"
-                  >S</hi>odores</persName>, uns chevaliers de la mesnie <persName key="Mardocheus"
-                     >Mardocheum</persName>, vit que cil por qui il avoient les rens cierciés lor
-                  estoit rescous. Si n'en fu mie bien paiiés. Et que fist ? Onques en nul plus grant
-                  peril ne se mist hom ne plus grant proecce ne fist, ne fu un chevalier qu'on
-                  apiela <persName key="Eleazar">Eleziar</persName>, qui fu des <persName
-                     key="famille_Maccabée">Macabeus</persName>, li ques ocis le olyphant entre
-                  ciaus ki le gardoient. Tout autresi cil <persName key="Sodore">Sodorés</persName>,
-                  parmi tout ciaus qui <persName key="Pelyarmenus">Peliarmenus</persName> avoient a
-                  warder, vint a lui et li douna un caup en tel maniere c'uns chevaliers gieta en
-                  haste son brac au devant. Mais ainc ce ne le secourut que hiaume, coiffe li
-                  porfendi jusques el ciés, en tel maniere qu'il l'euist jus dou ceval mis,
-                  n'euissent esté cil ki entour lui estoient. Et quant ce eut feru li chevaliers a
-                  droit, si quida a lui recouvrer, mais il ne peut, conme cil ki n'avoit point de
-                  siute. Lors fu de toutes pars entrepris, si qu'en la fin ne peut repairier as
-                  siens, et fu illuec ochis et pierdus.</p>
+                  <persName key="Sodorés"><hi rend="decorated-initial 2 blue"
+                     >S</hi>odorés</persName>, uns chevaliers de la mesnie <persName
+                     key="Mardocheus">Mardocheum</persName>, vit que cil por qui il avoient les rens
+                  cierciés lor estoit rescous. Si n'en fu mie bien paiiés. Et que fist ? Onques en
+                  nul plus grant peril ne se mist hom ne plus grant proecce ne fist, ne fu un
+                  chevalier qu'on apiela <persName key="Eleazar">Eleziar</persName>, qui fu des
+                     <persName key="famille_Maccabée">Macabeus</persName>, li ques ocis le olyphant
+                  entre ciaus ki le gardoient. Tout autresi cil <persName key="Sodorés"
+                     >Sodorés</persName>, parmi tout ciaus qui <persName key="Pelyarmenus"
+                     >Peliarmenus</persName> avoient a warder, vint a lui et li douna un caup en tel
+                  maniere c'uns chevaliers gieta en haste son brac au devant. Mais ainc ce ne le
+                  secourut que hiaume, coiffe li porfendi jusques el ciés, en tel maniere qu'il
+                  l'euist jus dou ceval mis, n'euissent esté cil ki entour lui estoient. Et quant ce
+                  eut feru li chevaliers a droit, si quida a lui recouvrer, mais il ne peut, conme
+                  cil ki n'avoit point de siute. Lors fu de toutes pars entrepris, si qu'en la fin
+                  ne peut repairier as siens, et fu illuec ochis et pierdus.</p>
             </div>
             <div type="sup_paragraphe">
                <p n="P152">
@@ -8898,40 +8899,44 @@
                   dont je me sui mout grant piece<del hand="#hand1" type="exponctuation">l</del>
                   teus, qui en grant deboinaireté avoit mis son cors a painne et a travail chascun
                   jor, issi com il pooit paroir a l'uevre chascun jor ensivant.</p>
-               <p n="P190">Ci nos dist ore li contes que li emperere<note type="note_langue">Le cas
-                     de ce groupe nominal ne fait pas de doute grâce au déterminant : CSS. Mais
-                     l'analyse syntaxique montre qu'il est en fait complément détaché de "li
-                     chastelains vint a lui".</note>, ausi come je vos avoie laissié a dire <cb
-                     n="b"/> devant, qu'il un jor avint que li chastelains vint a lui et li dist
-                  tant d'un et d'el qu'il li fist a savoir que mout volentiers se meist en sa
-                  compaignie et traveillast le cors a çou qu'il le veoit faire. Li emperere li dist
-                  : <said aloud="true" direct="true">Dous amis, jou loeroie mout volentiers le bien
-                     por tout afaire.</said> Et qu'en avint ? Por foi, une mout grans traïsons, car
-                  li chastelains vint a sa feme, et le cuida a ce atraire qu'il avoit en propos cele
-                  qui cure n'avoit de ce. Si vit et cuida que li emperere li vausist tolir son
-                  signor. Maintenant porchaça la desloiaus qu'ele fist que li emperere portoit piere
-                  en une bot<note type="note_langue">Il est à peu près sûr que le mot corresponde à
-                     botte (FEW, 1.661b).</note> et vint sor une cloie fausement hordee, lors cheï
-                  aval et <del hand="#hand1" type="scraped">fu</del> tous fu froissiés. Quant li
-                  aucun virent ce, si seurent que ce avoit esté traïsons et furent si courecié que
-                  trop. Li chastelains vint illuech acourant, et trova ke<supplied resp="#FPZ"
-                     reason="omitted">u</supplied> li emperere, issi com il estoit. Mais onques nus
-                  hom ne mena si grant dolor com il fist, lors le fist porter en son osteil. Illuech
-                  demoura por ce qu'on le veut celer a l'emperris, sa feme, mais li celers ne li
-                  valut autre chose qu'en la fin li covint savoir en teil maniere qu'il le manda, et
-                  elle vint devant lui et li dist : <said aloud="true" direct="true">Douce dame et
-                     douce amie, <name type="people" ref="#Jhesucrist">Nostre Sire</name> a fait sa
-                     volenté de moi ausi com il fera de chascun. Je vos pri que vos a Diu fachiés
-                     proiiere por moi, car je me muir.</said> Atant se pasma la dame en mainte
-                  pluisor maniere, si ne puis ne veil ore raconter tout ce qu'il en avint. Mais a ce
-                  veil venir qu'il morut et fu mis en tiere a grant honor. L'emperris demoura en la
-                  garde au chastelain, mais une chose avint tandis que l'emperris vint a
-                  l'empereour, car <persName key="Nichole">Nichole</persName>, qui fu engrant de
-                  savoir coment il fu a l'empereour, laissa les enfans tous couchiés es biercius et
-                  en vint a <placeName key="Gomor">Gomor</placeName>, et seut coment li emperere
-                  avoit esté murdris. Se elle mena duel, ce poués vos croire, ensi com elle cuida
-                  trover arriere ses enfans, emevos le liuon u il avoit pris le daerain des
-                     <num>iiii</num>, et se l'enportoit a tout le bierçuel en la foriest.</p>
+               <p n="P190">Ci nos dist ore li contes que li emperere, ausi come je vos avoie laissié
+                  a dire <cb n="b"/> devant, qu'il un jor avint<note type="note_commentaire">Rupture
+                     thématique : le sujet initial _li emperere_ est suspendu puis repris en tant
+                     que complément second du verbe dans _li chastelains vint a lui_. Ce type de
+                     disclocation est fréquent.</note> que li chastelains vint a lui et li dist tant
+                  d'un et d'el qu'il li fist a savoir que mout volentiers se meist en sa compaignie
+                  et traveillast le cors a çou qu'il le veoit faire. Li emperere li dist : <said
+                     aloud="true" direct="true">Dous amis, jou loeroie mout volentiers le bien par
+                     tout <unclear reason="acertain" cert="low">afaire</unclear>.</said> Et qu'en
+                  avint ? Par foi, une mout grans traïsons, car li chastelains vint a sa feme et le
+                  cuida a ce atraire qu'il<note type="note_commentaire">_qu'il_ : _ce qu'il_</note>
+                  avoit en propos. Cele qui cure n'avoit de ce si vit et cuida que li emperere li
+                  vausist tolir son signor. Maintenant porchaça la desloiaus qu'ele fist que li
+                  emperere portoit piere en une bot<note type="note_langue">Il est à peu près sûr
+                     que le mot corresponde à botte (FEW, 1.661b).</note> et vint sor une cloie
+                  fausement hordee ; lors cheï aval et <del hand="#hand1" type="scraped">fu</del>
+                  tous fu froissiés. Quant li aucun virent ce, si seurent que ce avoit esté traïsons
+                  et furent si courecié que trop. Li chastelains vint illuech acourant et trova
+                     ke<note type="note_travail">participe passé de _cheoir_ : corriger en _keu_
+                     ?</note> li emperere, issi com il estoit. Mais onques nus hom ne mena si grant
+                  dolor com il fist, lors le fist porter en son osteil. Illuech demoura por ce qu'on
+                  le veut celer a l'emperris, sa feme, mais li celers ne li valut autre chose qu'en
+                  la fin li covint savoir en teil maniere qu'il le manda et elle vint devant lui, et
+                  li dist : <said aloud="true" direct="true">Douce dame et douce amie, <name
+                        type="people" ref="#Jhesucrist">Nostre Sire</name> a fait sa volenté de moi
+                     ausi com il fera de chascun. Je vos pri que vos a Diu fachiés proiiere por moi,
+                     car je me muir.</said> Atant se pasma la dame en mainte pluisor maniere, si ne
+                  puis ne veil ore raconter tout ce qu'il en avint<note type="note_commentaire">Ici
+                     se termine la matière du _roman de Peliarmenus_. Commence alors la matière du
+                     _roman de Kanor_ sous une forme condensée et abrégée.</note>. Mais a ce veil
+                  venir qu'il morut et fu mis en tiere a grant honor. L'emperris demoura en la garde
+                  au chastelain, mais une chose avint tandis que l'emperris vint a l'empereour, car
+                     <persName key="Nichole">Nichole</persName> qui fu engrant de savoir coment il
+                  fu a l'empereour laissa les enfans tous couchiés es biercius et en vint a
+                     <placeName key="Gomor">Gomor</placeName> et seut coment li emperere avoit esté
+                  murdris. Se elle mena duel, ce poués vos croire ! Ensi com elle cuida trover
+                  arriere ses enfans, emevos le liuon u il avoit pris le daerain des <num>iiii</num>
+                  et se l'enportoit a tout le bierçuel en la foriest.</p>
             </div>
 
             <div type="sup_paragraphe">
@@ -8941,18 +8946,18 @@
                      direct="true"><persName key="saintNicholas">Sains Nicholais</persName>, aidiés
                      moi ! <persName key="saintNicholas">Sains Nicholais</persName>, aidiés, aidiés
                      moi !</said> Que vos iroie ore plus contant ? Isi avint qu'en une haute roche
-                  monta li liuons a tout l'enfant, et illuech avoit une chavee en la montaigne, la u
+                  monta li liuons a tout l'enfant et illuech avoit une chavee en la montaigne, la u
                   uns hiermites habitoit. <persName key="Nichole">Nichole</persName>, qui ne veut
                   mie faillir a savoir ce, vint au mius qu'ele peut et trova tous <num>iiii</num>
                   ses enfans dejouste un saint home qui les bierçoit a mierveille piteusement. Il se
                   leva contre celi et le fist bienvignant. Illuech s'entracointierent tant que li
                   uns seut le covenant de l'autre, et bien virent que ce fu li consentemens de <name
                      type="people" ref="#Jhesucrist">Nostre Signor</name>, qui maintenant lor amena
-                  une blanche chierge, dont il cuidierent norir les enfans. Mais ce ne peut soufire,
+                  une blanche chierge dont il cuidierent norir les enfans. Mais ce ne peut soufire,
                   car onques li enfant ne vorrent mengier autrement que elle lor metoit la mamiele
                   en leur bouche et jetoit dou lait a la chierge encoste, s'il aletoient en teil
-                  maniere. Por coi il ne demoura mie qu'en poi de tans douna cele, qui puciele
-                  estoit, ausi com por acoustumance, et ensi nori cele les enfans de ci en l'eage de
+                  maniere. Por coi il ne demoura mie qu'en poi de tans douna cele qui puciele estoit
+                  ausi com por acoustumance et ensi nori cele les enfans de ci en l'eage de
                      <num>vii</num> ans.</p>
                <p n="P192">L'emperris, qui demoura aveuch le chastelain et le chastelaine de ci
                   adont que li emperere avoit esté mis en tiere et qu'on eut mengiet, se repaira
