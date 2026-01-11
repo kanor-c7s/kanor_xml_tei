@@ -546,6 +546,44 @@
             </span>
         </span>
     </xsl:template>
+    
+    <!-- Template pour les éléments quote -->
+    
+    
+    
+    <xsl:template match="quote">
+        <xsl:choose>
+            <!-- Cas spécifique : Proverbes -->
+            <xsl:when test="@type = 'proverbe'">
+                <xsl:variable name="id_proverbe" select="@xml:id"/>
+                <!-- On cherche la note correspondante -->
+                <xsl:variable name="note_liee" select="//note[@type='commentaire_proverbe'][@target = concat('#', $id_proverbe)]"/>
+                
+                <span class="tooltip_notes">
+                    <!-- Texte du proverbe -->
+                    <xsl:text>‘</xsl:text>
+                    <xsl:apply-templates/>
+                    <xsl:text>’</xsl:text>
+                    
+                    <!-- Contenu de l'infobulle -->
+                    <xsl:if test="$note_liee">
+                        <span class="tooltip_notes-content">
+                            <!-- CHANGEMENT ICI : on ajoute mode="infobulle" -->
+                            <!-- Cela permet d'utiliser des templates simplifiés pour le contenu de la note -->
+                            <xsl:apply-templates select="$note_liee/node()" mode="infobulle"/>
+                        </span>
+                    </xsl:if>
+                </span>
+            </xsl:when>
+            
+            <!-- Autres types de citations -->
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    
 
     <!-- Template pour les éléments seg -->
     <xsl:template match="seg">
@@ -556,7 +594,7 @@
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            <xsl:when test="@ana = 'proverbe'">‘<xsl:apply-templates/>’</xsl:when>
+            
             <xsl:when test="@ana = 'divergences'">
                 <span class="divergences">
                     <xsl:apply-templates/>
@@ -637,6 +675,8 @@
     </xsl:template>
 
     <!-- les non breaking spaces sont ici -->
+
+
 
 
 

@@ -490,6 +490,20 @@
         </span>
     </xsl:template>
 
+    <!-- Template pour les éléments quote -->
+    
+    <xsl:template match="quote">
+        <xsl:choose>
+            <xsl:when test="@type = 'proverbe'">‘<xsl:apply-templates/>’</xsl:when>
+            
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    
+
     <!-- Template pour les éléments seg -->
     <xsl:template match="seg">
         <xsl:choose>
@@ -500,7 +514,6 @@
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            <xsl:when test="@ana = 'proverbe'">“<xsl:apply-templates/>”</xsl:when>
             <xsl:when test="@ana = 'divergences'">
                 <span class="divergences">
                     <xsl:apply-templates/>
