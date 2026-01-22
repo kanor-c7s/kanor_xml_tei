@@ -37,7 +37,7 @@
                     });
                     }
                 </script>
-                
+
             </head>
             <body>
                 <span class="title">
@@ -52,8 +52,8 @@
                         Tous les noms sont dotés d'une infobulle qui va rechercher le contenu de
                             l'<hi>index nominum</hi>. Même principe pour les noms de lieux.</li>
                     <li>[×] segment indéchiffrable</li>
-                    <li>Dieus i vot mostrer de ses o<span class="add">‸ue</span>vres : ajout
-                        suscrit par le scribe </li>
+                    <li>Dieus i vot mostrer de ses o<span class="add">‸ue</span>vres : ajout suscrit
+                        par le scribe </li>
                     <li>de grant se<span class="tooltip">‹n›<span class="tooltip-content"/></span>s
                         aornee : ajout par l'éditeur </li>
                     <li>Au conbrer le cheval f<span class="del">u</span>ist il merveille :
@@ -133,15 +133,15 @@
     <!-- Template pour les paragraphes -->
     <xsl:template match="p">
         <p style="display:inline;" id="{substring-after(@n, 'P')}">
-            <span style="float:left; padding-right:15px; position:relative; display:flex; align-items:center;">
+            <span
+                style="float:left; padding-right:15px; position:relative; display:flex; align-items:center;">
                 <span class="link-icon" title="Copier le lien du paragraphe"
                     onclick="copyParagraphLink('{substring-after(@n, 'P')}', this)"
-                    style="cursor:pointer; font-size:0.75em; margin-right:6px; transition:opacity 0.3s ease-in-out;">
-                    🔗                    
-                </span>
+                    style="cursor:pointer; font-size:0.75em; margin-right:6px; transition:opacity 0.3s ease-in-out;"
+                    > 🔗 </span>
                 <b>§&#160;<span class="paraNum">
-                    <xsl:value-of select="substring-after(@n, 'P')"/>
-                </span></b>
+                        <xsl:value-of select="substring-after(@n, 'P')"/>
+                    </span></b>
             </span>
             <xsl:text> </xsl:text>
             <xsl:apply-templates/>
@@ -373,29 +373,96 @@
     <!-- Template pour les éléments note -->
     <xsl:template match="note">
         <xsl:choose>
+            <!-- Cas : Note critique -->
             <xsl:when test="@type = 'notecritique'">
                 <span class="tooltip_notes">
-                    <span class="note">💬<span class="tooltip_notes-content">
+                    <span class="note">💬 <span class="tooltip_notes-content">
                             <xsl:apply-templates/>
-                        </span></span>
+                        </span>
+                    </span>
                 </span>
             </xsl:when>
+
+            <!-- Cas : Note de travail -->
             <xsl:when test="@type = 'ntravail'">
                 <span class="tooltip_notes">
-                    <span class="ntravail">&#10067;<span class="tooltip_notes-content">
+                    <span class="ntravail">❓ <span class="tooltip_notes-content">
                             <xsl:apply-templates/>
-                        </span></span>
+                        </span>
+                    </span>
                 </span>
             </xsl:when>
+
+            <!-- Cas par défaut -->
             <xsl:otherwise>
                 <span class="tooltip_notes">
-                    <span class="note">💬<span class="tooltip_notes-content">
+                    <span class="note">💬 <span class="tooltip_notes-content">
                             <xsl:apply-templates/>
-                        </span></span>
+                        </span>
+                    </span>
                 </span>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+
+    <xsl:template match="text()[ancestor::note]">
+        <xsl:call-template name="parse-markdown">
+            <xsl:with-param name="text" select="."/>
+        </xsl:call-template>
+    </xsl:template>
+    
+    <xsl:template name="parse-markdown">
+        <xsl:param name="text"/>
+        
+        <!-- 
+      EXPLICATION DU REGEX CORRIGÉ :
+      
+      Partie 1 (GRAS - Groupe 1) : __(([^_]|_[^_])*)__
+         - Commence par __
+         - Le contenu accepte tout sauf '_', OU un '_' s'il est suivi d'autre chose (pour autoriser l'italique _mot_ dedans).
+      
+      Partie 2 (ITALIQUE - Groupe 4) : _(([^_]|__)+)_
+         - Commence par _
+         - Le contenu (Groupe 5) accepte :
+             a) [^_] : N'importe quoi sauf un underscore
+             b) __   : Un double underscore (C'est LA correction qui permet le gras imbriqué)
+         - Finit par _
+    -->
+        <xsl:analyze-string select="$text" regex="(__(([^_]|_[^_])*)__)|(_(([^_]|__)+)_)" flags="s">
+            
+            <xsl:matching-substring>
+                <xsl:choose>
+                    <!-- CAS GRAS (__...__) -->
+                    <xsl:when test="regex-group(1)">
+                        <b>
+                            <!-- Appel récursif sur le contenu du gras -->
+                            <xsl:call-template name="parse-markdown">
+                                <xsl:with-param name="text" select="regex-group(2)"/>
+                            </xsl:call-template>
+                        </b>
+                    </xsl:when>
+                    
+                    <!-- CAS ITALIQUE (_..._) -->
+                    <xsl:when test="regex-group(4)">
+                        <i>
+                            <!-- Appel récursif sur le contenu de l'italique -->
+                            <xsl:call-template name="parse-markdown">
+                                <!-- Attention : on prend le groupe 5 (le contenu mixte) -->
+                                <xsl:with-param name="text" select="regex-group(5)"/>
+                            </xsl:call-template>
+                        </i>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:matching-substring>
+            
+            <xsl:non-matching-substring>
+                <xsl:value-of select="."/>
+            </xsl:non-matching-substring>
+            
+        </xsl:analyze-string>
+    </xsl:template>
+
+
 
     <!-- Template pour les éléments add -->
     <xsl:template match="add">
@@ -462,11 +529,13 @@
                     </span>
                     <xsl:for-each select="occupation">
                         <span class="occupation">
-                            <b><xsl:value-of select="."/></b>
+                            <b>
+                                <xsl:value-of select="."/>
+                            </b>
                             <br/>
                         </span>
                     </xsl:for-each>
-                   
+
                     <xsl:for-each select="note">
                         <span class="note">
                             <xsl:value-of select="."/>
@@ -546,25 +615,26 @@
             </span>
         </span>
     </xsl:template>
-    
+
     <!-- Template pour les éléments quote -->
-    
-    
-    
+
+
+
     <xsl:template match="quote">
         <xsl:choose>
             <!-- Cas spécifique : Proverbes -->
             <xsl:when test="@type = 'proverbe'">
                 <xsl:variable name="id_proverbe" select="@xml:id"/>
                 <!-- On cherche la note correspondante -->
-                <xsl:variable name="note_liee" select="//note[@type='commentaire_proverbe'][@target = concat('#', $id_proverbe)]"/>
-                
+                <xsl:variable name="note_liee"
+                    select="//note[@type = 'commentaire_proverbe'][@target = concat('#', $id_proverbe)]"/>
+
                 <span class="tooltip_notes">
                     <!-- Texte du proverbe -->
                     <xsl:text>‘</xsl:text>
                     <xsl:apply-templates/>
                     <xsl:text>’</xsl:text>
-                    
+
                     <!-- Contenu de l'infobulle -->
                     <xsl:if test="$note_liee">
                         <span class="tooltip_notes-content">
@@ -575,15 +645,15 @@
                     </xsl:if>
                 </span>
             </xsl:when>
-            
+
             <!-- Autres types de citations -->
             <xsl:otherwise>
                 <xsl:apply-templates/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
-    
+
+
 
     <!-- Template pour les éléments seg -->
     <xsl:template match="seg">
@@ -594,7 +664,7 @@
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            
+
             <xsl:when test="@ana = 'divergences'">
                 <span class="divergences">
                     <xsl:apply-templates/>
@@ -614,6 +684,11 @@
                 </span>
             </xsl:when>
             <xsl:when test="@reason = 'acertain' and @cert = 'medium'">
+                <span class="acertain_medium">
+                    <i>[<xsl:apply-templates/>]</i>
+                </span>
+            </xsl:when>
+            <xsl:when test="@cert = 'medium'">
                 <span class="acertain_medium">
                     <i>[<xsl:apply-templates/>]</i>
                 </span>
